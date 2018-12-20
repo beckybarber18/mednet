@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python save_citation_info.py "$@"

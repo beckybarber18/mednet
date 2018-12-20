@@ -1,0 +1,3571 @@
+71
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>7640208</Id>
+	<Item Name="PubDate" Type="Date">1995 Aug</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Br J Cancer</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">al-Ghamdi AA</Item>
+		<Item Name="Author" Type="String">Sanders CM</Item>
+		<Item Name="Author" Type="String">Keefe M</Item>
+		<Item Name="Author" Type="String">Coggon D</Item>
+		<Item Name="Author" Type="String">Maitland NJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Maitland NJ</Item>
+	<Item Name="Title" Type="String">Human papillomavirus DNA and TP53 mutations in lung cancers from butchers.</Item>
+	<Item Name="Volume" Type="String">72</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">293-7</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0370635</Item>
+	<Item Name="ISSN" Type="String">0007-0920</Item>
+	<Item Name="ESSN" Type="String">1532-1827</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">7640208</Item>
+		<Item Name="pmc" Type="String">PMC2034006</Item>
+		<Item Name="rid" Type="String">7640208</Item>
+		<Item Name="eid" Type="String">7640208</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC2034006;</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1995/08/01 00:00</Item>
+		<Item Name="medline" Type="Date">1995/08/01 00:01</Item>
+		<Item Name="entrez" Type="Date">1995/08/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">British journal of cancer</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1995 Aug;72(2):293-7</Item>
+</DocSum>
+
+<DocSum>
+	<Id>8732107</Id>
+	<Item Name="PubDate" Type="Date">1996 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Zhonghua Zhong Liu Za Zhi</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Da J</Item>
+		<Item Name="Author" Type="String">Chen L</Item>
+		<Item Name="Author" Type="String">Hu Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu Y</Item>
+	<Item Name="Title" Type="String">[Human papillomavirus infection and p53 gene mutation in primary lung cancer].</Item>
+	<Item Name="Volume" Type="String">18</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">27-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Chinese</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7910681</Item>
+	<Item Name="ISSN" Type="String">0253-3766</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">8732107</Item>
+		<Item Name="rid" Type="String">8732107</Item>
+		<Item Name="eid" Type="String">8732107</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/01/01 00:00</Item>
+		<Item Name="medline" Type="Date">1996/01/01 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/01/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">Zhonghua zhong liu za zhi [Chinese journal of oncology]</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 Jan;18(1):27-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>8732107</Id>
+	<Item Name="PubDate" Type="Date">1996 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Zhonghua Zhong Liu Za Zhi</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Da J</Item>
+		<Item Name="Author" Type="String">Chen L</Item>
+		<Item Name="Author" Type="String">Hu Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu Y</Item>
+	<Item Name="Title" Type="String">[Human papillomavirus infection and p53 gene mutation in primary lung cancer].</Item>
+	<Item Name="Volume" Type="String">18</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">27-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Chinese</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7910681</Item>
+	<Item Name="ISSN" Type="String">0253-3766</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">8732107</Item>
+		<Item Name="rid" Type="String">8732107</Item>
+		<Item Name="eid" Type="String">8732107</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/01/01 00:00</Item>
+		<Item Name="medline" Type="Date">1996/01/01 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/01/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">Zhonghua zhong liu za zhi [Chinese journal of oncology]</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 Jan;18(1):27-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>8732107</Id>
+	<Item Name="PubDate" Type="Date">1996 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Zhonghua Zhong Liu Za Zhi</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Da J</Item>
+		<Item Name="Author" Type="String">Chen L</Item>
+		<Item Name="Author" Type="String">Hu Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu Y</Item>
+	<Item Name="Title" Type="String">[Human papillomavirus infection and p53 gene mutation in primary lung cancer].</Item>
+	<Item Name="Volume" Type="String">18</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">27-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Chinese</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7910681</Item>
+	<Item Name="ISSN" Type="String">0253-3766</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">8732107</Item>
+		<Item Name="rid" Type="String">8732107</Item>
+		<Item Name="eid" Type="String">8732107</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/01/01 00:00</Item>
+		<Item Name="medline" Type="Date">1996/01/01 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/01/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">Zhonghua zhong liu za zhi [Chinese journal of oncology]</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 Jan;18(1):27-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>8732107</Id>
+	<Item Name="PubDate" Type="Date">1996 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Zhonghua Zhong Liu Za Zhi</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Da J</Item>
+		<Item Name="Author" Type="String">Chen L</Item>
+		<Item Name="Author" Type="String">Hu Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu Y</Item>
+	<Item Name="Title" Type="String">[Human papillomavirus infection and p53 gene mutation in primary lung cancer].</Item>
+	<Item Name="Volume" Type="String">18</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">27-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Chinese</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7910681</Item>
+	<Item Name="ISSN" Type="String">0253-3766</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">8732107</Item>
+		<Item Name="rid" Type="String">8732107</Item>
+		<Item Name="eid" Type="String">8732107</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/01/01 00:00</Item>
+		<Item Name="medline" Type="Date">1996/01/01 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/01/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">Zhonghua zhong liu za zhi [Chinese journal of oncology]</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 Jan;18(1):27-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>9816244</Id>
+	<Item Name="PubDate" Type="Date">1996 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Clin Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ciernik IF</Item>
+		<Item Name="Author" Type="String">Berzofsky JA</Item>
+		<Item Name="Author" Type="String">Carbone DP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Carbone DP</Item>
+	<Item Name="Title" Type="String">Human lung cancer cells endogenously expressing mutant p53 process and present the mutant epitope and are lysed by mutant-specific cytotoxic T lymphocytes.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">877-82</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502500</Item>
+	<Item Name="ISSN" Type="String">1078-0432</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">9816244</Item>
+		<Item Name="rid" Type="String">9816244</Item>
+		<Item Name="eid" Type="String">9816244</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/05/01 00:00</Item>
+		<Item Name="medline" Type="Date">1998/11/17 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Clinical cancer research : an official journal of the American Association for Cancer Research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 May;2(5):877-82</Item>
+</DocSum>
+
+<DocSum>
+	<Id>9816244</Id>
+	<Item Name="PubDate" Type="Date">1996 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Clin Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ciernik IF</Item>
+		<Item Name="Author" Type="String">Berzofsky JA</Item>
+		<Item Name="Author" Type="String">Carbone DP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Carbone DP</Item>
+	<Item Name="Title" Type="String">Human lung cancer cells endogenously expressing mutant p53 process and present the mutant epitope and are lysed by mutant-specific cytotoxic T lymphocytes.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">877-82</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502500</Item>
+	<Item Name="ISSN" Type="String">1078-0432</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">9816244</Item>
+		<Item Name="rid" Type="String">9816244</Item>
+		<Item Name="eid" Type="String">9816244</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/05/01 00:00</Item>
+		<Item Name="medline" Type="Date">1998/11/17 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Clinical cancer research : an official journal of the American Association for Cancer Research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 May;2(5):877-82</Item>
+</DocSum>
+
+<DocSum>
+	<Id>9816244</Id>
+	<Item Name="PubDate" Type="Date">1996 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Clin Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ciernik IF</Item>
+		<Item Name="Author" Type="String">Berzofsky JA</Item>
+		<Item Name="Author" Type="String">Carbone DP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Carbone DP</Item>
+	<Item Name="Title" Type="String">Human lung cancer cells endogenously expressing mutant p53 process and present the mutant epitope and are lysed by mutant-specific cytotoxic T lymphocytes.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">877-82</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502500</Item>
+	<Item Name="ISSN" Type="String">1078-0432</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">9816244</Item>
+		<Item Name="rid" Type="String">9816244</Item>
+		<Item Name="eid" Type="String">9816244</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/05/01 00:00</Item>
+		<Item Name="medline" Type="Date">1998/11/17 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Clinical cancer research : an official journal of the American Association for Cancer Research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 May;2(5):877-82</Item>
+</DocSum>
+
+<DocSum>
+	<Id>9816244</Id>
+	<Item Name="PubDate" Type="Date">1996 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Clin Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ciernik IF</Item>
+		<Item Name="Author" Type="String">Berzofsky JA</Item>
+		<Item Name="Author" Type="String">Carbone DP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Carbone DP</Item>
+	<Item Name="Title" Type="String">Human lung cancer cells endogenously expressing mutant p53 process and present the mutant epitope and are lysed by mutant-specific cytotoxic T lymphocytes.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">877-82</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502500</Item>
+	<Item Name="ISSN" Type="String">1078-0432</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">9816244</Item>
+		<Item Name="rid" Type="String">9816244</Item>
+		<Item Name="eid" Type="String">9816244</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/05/01 00:00</Item>
+		<Item Name="medline" Type="Date">1998/11/17 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Clinical cancer research : an official journal of the American Association for Cancer Research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 May;2(5):877-82</Item>
+</DocSum>
+
+<DocSum>
+	<Id>9816244</Id>
+	<Item Name="PubDate" Type="Date">1996 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Clin Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ciernik IF</Item>
+		<Item Name="Author" Type="String">Berzofsky JA</Item>
+		<Item Name="Author" Type="String">Carbone DP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Carbone DP</Item>
+	<Item Name="Title" Type="String">Human lung cancer cells endogenously expressing mutant p53 process and present the mutant epitope and are lysed by mutant-specific cytotoxic T lymphocytes.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">877-82</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502500</Item>
+	<Item Name="ISSN" Type="String">1078-0432</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">9816244</Item>
+		<Item Name="rid" Type="String">9816244</Item>
+		<Item Name="eid" Type="String">9816244</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1996/05/01 00:00</Item>
+		<Item Name="medline" Type="Date">1998/11/17 00:01</Item>
+		<Item Name="entrez" Type="Date">1996/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Clinical cancer research : an official journal of the American Association for Cancer Research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1996 May;2(5):877-82</Item>
+</DocSum>
+
+<DocSum>
+	<Id>11035769</Id>
+	<Item Name="PubDate" Type="Date">2000 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Proc Natl Acad Sci U S A</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rodin SN</Item>
+		<Item Name="Author" Type="String">Rodin AS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rodin AS</Item>
+	<Item Name="Title" Type="String">Human lung cancer and p53: the interplay between mutagenesis and selection.</Item>
+	<Item Name="Volume" Type="String">97</Item>
+	<Item Name="Issue" Type="String">22</Item>
+	<Item Name="Pages" Type="String">12244-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7505876</Item>
+	<Item Name="ISSN" Type="String">0027-8424</Item>
+	<Item Name="ESSN" Type="String">1091-6490</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">11035769</Item>
+		<Item Name="doi" Type="String">10.1073/pnas.180320897</Item>
+		<Item Name="pii" Type="String">180320897</Item>
+		<Item Name="pmc" Type="String">PMC17326</Item>
+		<Item Name="rid" Type="String">11035769</Item>
+		<Item Name="eid" Type="String">11035769</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC17326;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1073/pnas.180320897</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2000/10/18 11:00</Item>
+		<Item Name="medline" Type="Date">2001/02/28 10:01</Item>
+		<Item Name="entrez" Type="Date">2000/10/18 11:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Erratum in" Type="String">Proc Natl Acad Sci U S A 2001 Feb 13;98(4):2111</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">18</Item>
+	<Item Name="FullJournalName" Type="String">Proceedings of the National Academy of Sciences of the United States of America</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2000 Oct 24;97(22):12244-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>11035769</Id>
+	<Item Name="PubDate" Type="Date">2000 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Proc Natl Acad Sci U S A</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rodin SN</Item>
+		<Item Name="Author" Type="String">Rodin AS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rodin AS</Item>
+	<Item Name="Title" Type="String">Human lung cancer and p53: the interplay between mutagenesis and selection.</Item>
+	<Item Name="Volume" Type="String">97</Item>
+	<Item Name="Issue" Type="String">22</Item>
+	<Item Name="Pages" Type="String">12244-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7505876</Item>
+	<Item Name="ISSN" Type="String">0027-8424</Item>
+	<Item Name="ESSN" Type="String">1091-6490</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">11035769</Item>
+		<Item Name="doi" Type="String">10.1073/pnas.180320897</Item>
+		<Item Name="pii" Type="String">180320897</Item>
+		<Item Name="pmc" Type="String">PMC17326</Item>
+		<Item Name="rid" Type="String">11035769</Item>
+		<Item Name="eid" Type="String">11035769</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC17326;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1073/pnas.180320897</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2000/10/18 11:00</Item>
+		<Item Name="medline" Type="Date">2001/02/28 10:01</Item>
+		<Item Name="entrez" Type="Date">2000/10/18 11:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Erratum in" Type="String">Proc Natl Acad Sci U S A 2001 Feb 13;98(4):2111</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">18</Item>
+	<Item Name="FullJournalName" Type="String">Proceedings of the National Academy of Sciences of the United States of America</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2000 Oct 24;97(22):12244-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>11035769</Id>
+	<Item Name="PubDate" Type="Date">2000 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Proc Natl Acad Sci U S A</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rodin SN</Item>
+		<Item Name="Author" Type="String">Rodin AS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rodin AS</Item>
+	<Item Name="Title" Type="String">Human lung cancer and p53: the interplay between mutagenesis and selection.</Item>
+	<Item Name="Volume" Type="String">97</Item>
+	<Item Name="Issue" Type="String">22</Item>
+	<Item Name="Pages" Type="String">12244-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7505876</Item>
+	<Item Name="ISSN" Type="String">0027-8424</Item>
+	<Item Name="ESSN" Type="String">1091-6490</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">11035769</Item>
+		<Item Name="doi" Type="String">10.1073/pnas.180320897</Item>
+		<Item Name="pii" Type="String">180320897</Item>
+		<Item Name="pmc" Type="String">PMC17326</Item>
+		<Item Name="rid" Type="String">11035769</Item>
+		<Item Name="eid" Type="String">11035769</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC17326;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1073/pnas.180320897</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2000/10/18 11:00</Item>
+		<Item Name="medline" Type="Date">2001/02/28 10:01</Item>
+		<Item Name="entrez" Type="Date">2000/10/18 11:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Erratum in" Type="String">Proc Natl Acad Sci U S A 2001 Feb 13;98(4):2111</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">18</Item>
+	<Item Name="FullJournalName" Type="String">Proceedings of the National Academy of Sciences of the United States of America</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2000 Oct 24;97(22):12244-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>11035769</Id>
+	<Item Name="PubDate" Type="Date">2000 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Proc Natl Acad Sci U S A</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rodin SN</Item>
+		<Item Name="Author" Type="String">Rodin AS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rodin AS</Item>
+	<Item Name="Title" Type="String">Human lung cancer and p53: the interplay between mutagenesis and selection.</Item>
+	<Item Name="Volume" Type="String">97</Item>
+	<Item Name="Issue" Type="String">22</Item>
+	<Item Name="Pages" Type="String">12244-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7505876</Item>
+	<Item Name="ISSN" Type="String">0027-8424</Item>
+	<Item Name="ESSN" Type="String">1091-6490</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">11035769</Item>
+		<Item Name="doi" Type="String">10.1073/pnas.180320897</Item>
+		<Item Name="pii" Type="String">180320897</Item>
+		<Item Name="pmc" Type="String">PMC17326</Item>
+		<Item Name="rid" Type="String">11035769</Item>
+		<Item Name="eid" Type="String">11035769</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC17326;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1073/pnas.180320897</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2000/10/18 11:00</Item>
+		<Item Name="medline" Type="Date">2001/02/28 10:01</Item>
+		<Item Name="entrez" Type="Date">2000/10/18 11:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Erratum in" Type="String">Proc Natl Acad Sci U S A 2001 Feb 13;98(4):2111</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">18</Item>
+	<Item Name="FullJournalName" Type="String">Proceedings of the National Academy of Sciences of the United States of America</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2000 Oct 24;97(22):12244-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>18636194</Id>
+	<Item Name="PubDate" Type="Date">2008 Aug</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Oncol Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang Y</Item>
+		<Item Name="Author" Type="String">Wang A</Item>
+		<Item Name="Author" Type="String">Jiang R</Item>
+		<Item Name="Author" Type="String">Pan H</Item>
+		<Item Name="Author" Type="String">Huang B</Item>
+		<Item Name="Author" Type="String">Lu Y</Item>
+		<Item Name="Author" Type="String">Wu C</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wu C</Item>
+	<Item Name="Title" Type="String">Human papillomavirus type 16 and 18 infection is associated with lung cancer patients from the central part of China.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">333-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9422756</Item>
+	<Item Name="ISSN" Type="String">1021-335X</Item>
+	<Item Name="ESSN" Type="String">1791-2431</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">18636194</Item>
+		<Item Name="rid" Type="String">18636194</Item>
+		<Item Name="eid" Type="String">18636194</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2008/07/19 09:00</Item>
+		<Item Name="medline" Type="Date">2008/10/23 09:00</Item>
+		<Item Name="entrez" Type="Date">2008/07/19 09:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">10</Item>
+	<Item Name="FullJournalName" Type="String">Oncology reports</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2008 Aug;20(2):333-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>21814715</Id>
+	<Item Name="PubDate" Type="Date">2011 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2011 Jul 19</Item>
+	<Item Name="Source" Type="String">Int J Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Papadopoulou A</Item>
+		<Item Name="Author" Type="String">Kletsas D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kletsas D</Item>
+	<Item Name="Title" Type="String">Human lung fibroblasts prematurely senescent after exposure to ionizing radiation enhance the growth of malignant lung epithelial cells in vitro and in vivo.</Item>
+	<Item Name="Volume" Type="String">39</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">989-99</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9306042</Item>
+	<Item Name="ISSN" Type="String">1019-6439</Item>
+	<Item Name="ESSN" Type="String">1791-2423</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">21814715</Item>
+		<Item Name="doi" Type="String">10.3892/ijo.2011.1132</Item>
+		<Item Name="rid" Type="String">21814715</Item>
+		<Item Name="eid" Type="String">21814715</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3892/ijo.2011.1132</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2011/03/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2011/05/02 00:00</Item>
+		<Item Name="entrez" Type="Date">2011/08/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2011/08/05 06:00</Item>
+		<Item Name="medline" Type="Date">2012/01/14 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">22</Item>
+	<Item Name="FullJournalName" Type="String">International journal of oncology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3892/ijo.2011.1132</Item>
+	<Item Name="SO" Type="String">2011 Oct;39(4):989-99</Item>
+</DocSum>
+
+<DocSum>
+	<Id>22701761</Id>
+	<Item Name="PubDate" Type="Date">2011 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Genes Cancer</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vaughan C</Item>
+		<Item Name="Author" Type="String">Mohanraj L</Item>
+		<Item Name="Author" Type="String">Singh S</Item>
+		<Item Name="Author" Type="String">Dumur CI</Item>
+		<Item Name="Author" Type="String">Ramamoorthy M</Item>
+		<Item Name="Author" Type="String">Garrett CT</Item>
+		<Item Name="Author" Type="String">Windle B</Item>
+		<Item Name="Author" Type="String">Yeudall WA</Item>
+		<Item Name="Author" Type="String">Deb S</Item>
+		<Item Name="Author" Type="String">Deb SP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Deb SP</Item>
+	<Item Name="Title" Type="String">Human Oncoprotein MDM2 Up-regulates Expression of NF-κB2 Precursor p100 Conferring a Survival Advantage to Lung Cells.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">943-55</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101516546</Item>
+	<Item Name="ISSN" Type="String">1947-6019</Item>
+	<Item Name="ESSN" Type="String">1947-6027</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">22701761</Item>
+		<Item Name="doi" Type="String">10.1177/1947601911436008</Item>
+		<Item Name="pii" Type="String">10.1177_1947601911436008</Item>
+		<Item Name="pmc" Type="String">PMC3374626</Item>
+		<Item Name="rid" Type="String">22701761</Item>
+		<Item Name="eid" Type="String">22701761</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3374626;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/1947601911436008</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2011/10/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2011/12/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2012/06/16 06:00</Item>
+		<Item Name="pubmed" Type="Date">2012/06/16 06:00</Item>
+		<Item Name="medline" Type="Date">2012/06/16 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Genes &amp; cancer</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/1947601911436008</Item>
+	<Item Name="SO" Type="String">2011 Oct;2(10):943-55</Item>
+</DocSum>
+
+<DocSum>
+	<Id>22701761</Id>
+	<Item Name="PubDate" Type="Date">2011 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Genes Cancer</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vaughan C</Item>
+		<Item Name="Author" Type="String">Mohanraj L</Item>
+		<Item Name="Author" Type="String">Singh S</Item>
+		<Item Name="Author" Type="String">Dumur CI</Item>
+		<Item Name="Author" Type="String">Ramamoorthy M</Item>
+		<Item Name="Author" Type="String">Garrett CT</Item>
+		<Item Name="Author" Type="String">Windle B</Item>
+		<Item Name="Author" Type="String">Yeudall WA</Item>
+		<Item Name="Author" Type="String">Deb S</Item>
+		<Item Name="Author" Type="String">Deb SP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Deb SP</Item>
+	<Item Name="Title" Type="String">Human Oncoprotein MDM2 Up-regulates Expression of NF-κB2 Precursor p100 Conferring a Survival Advantage to Lung Cells.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">943-55</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101516546</Item>
+	<Item Name="ISSN" Type="String">1947-6019</Item>
+	<Item Name="ESSN" Type="String">1947-6027</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">22701761</Item>
+		<Item Name="doi" Type="String">10.1177/1947601911436008</Item>
+		<Item Name="pii" Type="String">10.1177_1947601911436008</Item>
+		<Item Name="pmc" Type="String">PMC3374626</Item>
+		<Item Name="rid" Type="String">22701761</Item>
+		<Item Name="eid" Type="String">22701761</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3374626;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/1947601911436008</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2011/10/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2011/12/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2012/06/16 06:00</Item>
+		<Item Name="pubmed" Type="Date">2012/06/16 06:00</Item>
+		<Item Name="medline" Type="Date">2012/06/16 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Genes &amp; cancer</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/1947601911436008</Item>
+	<Item Name="SO" Type="String">2011 Oct;2(10):943-55</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23449933</Id>
+	<Item Name="PubDate" Type="Date">2013 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2013 Feb 28</Item>
+	<Item Name="Source" Type="String">Mol Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Lee W</Item>
+		<Item Name="Author" Type="String">Sun H</Item>
+		<Item Name="Author" Type="String">Shames DS</Item>
+		<Item Name="Author" Type="String">Dalvi MP</Item>
+		<Item Name="Author" Type="String">Ramirez RD</Item>
+		<Item Name="Author" Type="String">Tang H</Item>
+		<Item Name="Author" Type="String">DiMaio JM</Item>
+		<Item Name="Author" Type="String">Gao B</Item>
+		<Item Name="Author" Type="String">Xie Y</Item>
+		<Item Name="Author" Type="String">Wistuba II</Item>
+		<Item Name="Author" Type="String">Gazdar AF</Item>
+		<Item Name="Author" Type="String">Shay JW</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Minna JD</Item>
+	<Item Name="Title" Type="String">Human lung epithelial cells progressed to malignancy through specific oncogenic manipulations.</Item>
+	<Item Name="Volume" Type="String">11</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">638-50</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101150042</Item>
+	<Item Name="ISSN" Type="String">1541-7786</Item>
+	<Item Name="ESSN" Type="String">1557-3125</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">23449933</Item>
+		<Item Name="pii" Type="String">1541-7786.MCR-12-0634-T</Item>
+		<Item Name="doi" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+		<Item Name="pmc" Type="String">PMC3687022</Item>
+		<Item Name="mid" Type="String">NIHMS450692</Item>
+		<Item Name="rid" Type="String">23449933</Item>
+		<Item Name="eid" Type="String">23449933</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3687022;manuscript-id: NIHMS450692;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="medline" Type="Date">2014/04/18 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">64</Item>
+	<Item Name="FullJournalName" Type="String">Molecular cancer research : MCR</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="SO" Type="String">2013 Jun;11(6):638-50</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23449933</Id>
+	<Item Name="PubDate" Type="Date">2013 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2013 Feb 28</Item>
+	<Item Name="Source" Type="String">Mol Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Lee W</Item>
+		<Item Name="Author" Type="String">Sun H</Item>
+		<Item Name="Author" Type="String">Shames DS</Item>
+		<Item Name="Author" Type="String">Dalvi MP</Item>
+		<Item Name="Author" Type="String">Ramirez RD</Item>
+		<Item Name="Author" Type="String">Tang H</Item>
+		<Item Name="Author" Type="String">DiMaio JM</Item>
+		<Item Name="Author" Type="String">Gao B</Item>
+		<Item Name="Author" Type="String">Xie Y</Item>
+		<Item Name="Author" Type="String">Wistuba II</Item>
+		<Item Name="Author" Type="String">Gazdar AF</Item>
+		<Item Name="Author" Type="String">Shay JW</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Minna JD</Item>
+	<Item Name="Title" Type="String">Human lung epithelial cells progressed to malignancy through specific oncogenic manipulations.</Item>
+	<Item Name="Volume" Type="String">11</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">638-50</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101150042</Item>
+	<Item Name="ISSN" Type="String">1541-7786</Item>
+	<Item Name="ESSN" Type="String">1557-3125</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">23449933</Item>
+		<Item Name="pii" Type="String">1541-7786.MCR-12-0634-T</Item>
+		<Item Name="doi" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+		<Item Name="pmc" Type="String">PMC3687022</Item>
+		<Item Name="mid" Type="String">NIHMS450692</Item>
+		<Item Name="rid" Type="String">23449933</Item>
+		<Item Name="eid" Type="String">23449933</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3687022;manuscript-id: NIHMS450692;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="medline" Type="Date">2014/04/18 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">64</Item>
+	<Item Name="FullJournalName" Type="String">Molecular cancer research : MCR</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="SO" Type="String">2013 Jun;11(6):638-50</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23449933</Id>
+	<Item Name="PubDate" Type="Date">2013 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2013 Feb 28</Item>
+	<Item Name="Source" Type="String">Mol Cancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Lee W</Item>
+		<Item Name="Author" Type="String">Sun H</Item>
+		<Item Name="Author" Type="String">Shames DS</Item>
+		<Item Name="Author" Type="String">Dalvi MP</Item>
+		<Item Name="Author" Type="String">Ramirez RD</Item>
+		<Item Name="Author" Type="String">Tang H</Item>
+		<Item Name="Author" Type="String">DiMaio JM</Item>
+		<Item Name="Author" Type="String">Gao B</Item>
+		<Item Name="Author" Type="String">Xie Y</Item>
+		<Item Name="Author" Type="String">Wistuba II</Item>
+		<Item Name="Author" Type="String">Gazdar AF</Item>
+		<Item Name="Author" Type="String">Shay JW</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Minna JD</Item>
+	<Item Name="Title" Type="String">Human lung epithelial cells progressed to malignancy through specific oncogenic manipulations.</Item>
+	<Item Name="Volume" Type="String">11</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">638-50</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101150042</Item>
+	<Item Name="ISSN" Type="String">1541-7786</Item>
+	<Item Name="ESSN" Type="String">1557-3125</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">23449933</Item>
+		<Item Name="pii" Type="String">1541-7786.MCR-12-0634-T</Item>
+		<Item Name="doi" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+		<Item Name="pmc" Type="String">PMC3687022</Item>
+		<Item Name="mid" Type="String">NIHMS450692</Item>
+		<Item Name="rid" Type="String">23449933</Item>
+		<Item Name="eid" Type="String">23449933</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3687022;manuscript-id: NIHMS450692;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/03/02 06:00</Item>
+		<Item Name="medline" Type="Date">2014/04/18 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">64</Item>
+	<Item Name="FullJournalName" Type="String">Molecular cancer research : MCR</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1158/1541-7786.MCR-12-0634-T</Item>
+	<Item Name="SO" Type="String">2013 Jun;11(6):638-50</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24009843</Id>
+	<Item Name="PubDate" Type="Date">2012 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Biomol Ther (Seoul)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jo SK</Item>
+		<Item Name="Author" Type="String">Hong JY</Item>
+		<Item Name="Author" Type="String">Park HJ</Item>
+		<Item Name="Author" Type="String">Lee SK</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee SK</Item>
+	<Item Name="Title" Type="String">Anticancer Activity of Novel Daphnane Diterpenoids from Daphne genkwa through Cell-Cycle Arrest and Suppression of Akt/STAT/Src Signalings in Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">513-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101472832</Item>
+	<Item Name="ISSN" Type="String">1976-9148</Item>
+	<Item Name="ESSN" Type="String">2005-4483</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24009843</Item>
+		<Item Name="doi" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+		<Item Name="pii" Type="String">ooomb4-20-513</Item>
+		<Item Name="pmc" Type="String">PMC3762286</Item>
+		<Item Name="rid" Type="String">24009843</Item>
+		<Item Name="eid" Type="String">24009843</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3762286;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/10/26 00:00</Item>
+		<Item Name="revised" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/07 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">6</Item>
+	<Item Name="FullJournalName" Type="String">Biomolecules &amp; therapeutics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="SO" Type="String">2012 Nov;20(6):513-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24009843</Id>
+	<Item Name="PubDate" Type="Date">2012 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Biomol Ther (Seoul)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jo SK</Item>
+		<Item Name="Author" Type="String">Hong JY</Item>
+		<Item Name="Author" Type="String">Park HJ</Item>
+		<Item Name="Author" Type="String">Lee SK</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee SK</Item>
+	<Item Name="Title" Type="String">Anticancer Activity of Novel Daphnane Diterpenoids from Daphne genkwa through Cell-Cycle Arrest and Suppression of Akt/STAT/Src Signalings in Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">513-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101472832</Item>
+	<Item Name="ISSN" Type="String">1976-9148</Item>
+	<Item Name="ESSN" Type="String">2005-4483</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24009843</Item>
+		<Item Name="doi" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+		<Item Name="pii" Type="String">ooomb4-20-513</Item>
+		<Item Name="pmc" Type="String">PMC3762286</Item>
+		<Item Name="rid" Type="String">24009843</Item>
+		<Item Name="eid" Type="String">24009843</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3762286;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/10/26 00:00</Item>
+		<Item Name="revised" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/07 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">6</Item>
+	<Item Name="FullJournalName" Type="String">Biomolecules &amp; therapeutics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="SO" Type="String">2012 Nov;20(6):513-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24009843</Id>
+	<Item Name="PubDate" Type="Date">2012 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Biomol Ther (Seoul)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jo SK</Item>
+		<Item Name="Author" Type="String">Hong JY</Item>
+		<Item Name="Author" Type="String">Park HJ</Item>
+		<Item Name="Author" Type="String">Lee SK</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee SK</Item>
+	<Item Name="Title" Type="String">Anticancer Activity of Novel Daphnane Diterpenoids from Daphne genkwa through Cell-Cycle Arrest and Suppression of Akt/STAT/Src Signalings in Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">513-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101472832</Item>
+	<Item Name="ISSN" Type="String">1976-9148</Item>
+	<Item Name="ESSN" Type="String">2005-4483</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24009843</Item>
+		<Item Name="doi" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+		<Item Name="pii" Type="String">ooomb4-20-513</Item>
+		<Item Name="pmc" Type="String">PMC3762286</Item>
+		<Item Name="rid" Type="String">24009843</Item>
+		<Item Name="eid" Type="String">24009843</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3762286;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/10/26 00:00</Item>
+		<Item Name="revised" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/07 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">6</Item>
+	<Item Name="FullJournalName" Type="String">Biomolecules &amp; therapeutics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="SO" Type="String">2012 Nov;20(6):513-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24009843</Id>
+	<Item Name="PubDate" Type="Date">2012 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Biomol Ther (Seoul)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jo SK</Item>
+		<Item Name="Author" Type="String">Hong JY</Item>
+		<Item Name="Author" Type="String">Park HJ</Item>
+		<Item Name="Author" Type="String">Lee SK</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee SK</Item>
+	<Item Name="Title" Type="String">Anticancer Activity of Novel Daphnane Diterpenoids from Daphne genkwa through Cell-Cycle Arrest and Suppression of Akt/STAT/Src Signalings in Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">513-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101472832</Item>
+	<Item Name="ISSN" Type="String">1976-9148</Item>
+	<Item Name="ESSN" Type="String">2005-4483</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24009843</Item>
+		<Item Name="doi" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+		<Item Name="pii" Type="String">ooomb4-20-513</Item>
+		<Item Name="pmc" Type="String">PMC3762286</Item>
+		<Item Name="rid" Type="String">24009843</Item>
+		<Item Name="eid" Type="String">24009843</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3762286;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/10/26 00:00</Item>
+		<Item Name="revised" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/11/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/07 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">6</Item>
+	<Item Name="FullJournalName" Type="String">Biomolecules &amp; therapeutics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4062/biomolther.2012.20.6.513</Item>
+	<Item Name="SO" Type="String">2012 Nov;20(6):513-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24163806</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jun 10</Item>
+	<Item Name="Source" Type="String">Bioimpacts</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jafari H</Item>
+		<Item Name="Author" Type="String">Gharemohammadlou R</Item>
+		<Item Name="Author" Type="String">Fakhrjou A</Item>
+		<Item Name="Author" Type="String">Ebrahimi A</Item>
+		<Item Name="Author" Type="String">Nejati-Koshki K</Item>
+		<Item Name="Author" Type="String">Nadri M</Item>
+		<Item Name="Author" Type="String">Sakhinia E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sakhinia E</Item>
+	<Item Name="Title" Type="String">Genotyping of Human Papillomavirus and TP53 Mutaions at Exons 5 to 7 in Lung Cancer Patients from Iran.</Item>
+	<Item Name="Volume" Type="String">3</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">135-40</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101558125</Item>
+	<Item Name="ISSN" Type="String">2228-5652</Item>
+	<Item Name="ESSN" Type="String">2228-5660</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24163806</Item>
+		<Item Name="doi" Type="String">10.5681/bi.2013.018</Item>
+		<Item Name="pmc" Type="String">PMC3786796</Item>
+		<Item Name="rid" Type="String">24163806</Item>
+		<Item Name="eid" Type="String">24163806</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3786796;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.5681/bi.2013.018</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/13 00:00</Item>
+		<Item Name="revised" Type="Date">2013/03/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/03/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/29 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">BioImpacts : BI</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.5681/bi.2013.018</Item>
+	<Item Name="SO" Type="String">2013;3(3):135-40</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24163806</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jun 10</Item>
+	<Item Name="Source" Type="String">Bioimpacts</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jafari H</Item>
+		<Item Name="Author" Type="String">Gharemohammadlou R</Item>
+		<Item Name="Author" Type="String">Fakhrjou A</Item>
+		<Item Name="Author" Type="String">Ebrahimi A</Item>
+		<Item Name="Author" Type="String">Nejati-Koshki K</Item>
+		<Item Name="Author" Type="String">Nadri M</Item>
+		<Item Name="Author" Type="String">Sakhinia E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sakhinia E</Item>
+	<Item Name="Title" Type="String">Genotyping of Human Papillomavirus and TP53 Mutaions at Exons 5 to 7 in Lung Cancer Patients from Iran.</Item>
+	<Item Name="Volume" Type="String">3</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">135-40</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101558125</Item>
+	<Item Name="ISSN" Type="String">2228-5652</Item>
+	<Item Name="ESSN" Type="String">2228-5660</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24163806</Item>
+		<Item Name="doi" Type="String">10.5681/bi.2013.018</Item>
+		<Item Name="pmc" Type="String">PMC3786796</Item>
+		<Item Name="rid" Type="String">24163806</Item>
+		<Item Name="eid" Type="String">24163806</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3786796;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.5681/bi.2013.018</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/13 00:00</Item>
+		<Item Name="revised" Type="Date">2013/03/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/03/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/29 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">BioImpacts : BI</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.5681/bi.2013.018</Item>
+	<Item Name="SO" Type="String">2013;3(3):135-40</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24163806</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jun 10</Item>
+	<Item Name="Source" Type="String">Bioimpacts</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jafari H</Item>
+		<Item Name="Author" Type="String">Gharemohammadlou R</Item>
+		<Item Name="Author" Type="String">Fakhrjou A</Item>
+		<Item Name="Author" Type="String">Ebrahimi A</Item>
+		<Item Name="Author" Type="String">Nejati-Koshki K</Item>
+		<Item Name="Author" Type="String">Nadri M</Item>
+		<Item Name="Author" Type="String">Sakhinia E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sakhinia E</Item>
+	<Item Name="Title" Type="String">Genotyping of Human Papillomavirus and TP53 Mutaions at Exons 5 to 7 in Lung Cancer Patients from Iran.</Item>
+	<Item Name="Volume" Type="String">3</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">135-40</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101558125</Item>
+	<Item Name="ISSN" Type="String">2228-5652</Item>
+	<Item Name="ESSN" Type="String">2228-5660</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24163806</Item>
+		<Item Name="doi" Type="String">10.5681/bi.2013.018</Item>
+		<Item Name="pmc" Type="String">PMC3786796</Item>
+		<Item Name="rid" Type="String">24163806</Item>
+		<Item Name="eid" Type="String">24163806</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3786796;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.5681/bi.2013.018</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/13 00:00</Item>
+		<Item Name="revised" Type="Date">2013/03/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/03/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/29 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/29 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">BioImpacts : BI</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.5681/bi.2013.018</Item>
+	<Item Name="SO" Type="String">2013;3(3):135-40</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24342321</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Chin Med J (Engl)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liang S</Item>
+		<Item Name="Author" Type="String">Xu JF</Item>
+		<Item Name="Author" Type="String">Cao WJ</Item>
+		<Item Name="Author" Type="String">Li HP</Item>
+		<Item Name="Author" Type="String">Hu CP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu CP</Item>
+	<Item Name="Title" Type="String">Human decorin regulates proliferation and migration of human lung cancer A549 cells.</Item>
+	<Item Name="Volume" Type="String">126</Item>
+	<Item Name="Issue" Type="String">24</Item>
+	<Item Name="Pages" Type="String">4736-41</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7513795</Item>
+	<Item Name="ISSN" Type="String">0366-6999</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24342321</Item>
+		<Item Name="rid" Type="String">24342321</Item>
+		<Item Name="eid" Type="String">24342321</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/12/18 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/12/18 06:00</Item>
+		<Item Name="medline" Type="Date">2014/06/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Chinese medical journal</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013;126(24):4736-41</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24342321</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Chin Med J (Engl)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liang S</Item>
+		<Item Name="Author" Type="String">Xu JF</Item>
+		<Item Name="Author" Type="String">Cao WJ</Item>
+		<Item Name="Author" Type="String">Li HP</Item>
+		<Item Name="Author" Type="String">Hu CP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hu CP</Item>
+	<Item Name="Title" Type="String">Human decorin regulates proliferation and migration of human lung cancer A549 cells.</Item>
+	<Item Name="Volume" Type="String">126</Item>
+	<Item Name="Issue" Type="String">24</Item>
+	<Item Name="Pages" Type="String">4736-41</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7513795</Item>
+	<Item Name="ISSN" Type="String">0366-6999</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24342321</Item>
+		<Item Name="rid" Type="String">24342321</Item>
+		<Item Name="eid" Type="String">24342321</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/12/18 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/12/18 06:00</Item>
+		<Item Name="medline" Type="Date">2014/06/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Chinese medical journal</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013;126(24):4736-41</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24410728</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Curr Cancer Drug Targets</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ren J</Item>
+		<Item Name="Author" Type="String">Yu C</Item>
+		<Item Name="Author" Type="String">Wu S</Item>
+		<Item Name="Author" Type="String">Peng F</Item>
+		<Item Name="Author" Type="String">Jiang Q</Item>
+		<Item Name="Author" Type="String">Zhang X</Item>
+		<Item Name="Author" Type="String">Zhong G</Item>
+		<Item Name="Author" Type="String">Shi H</Item>
+		<Item Name="Author" Type="String">Chen X</Item>
+		<Item Name="Author" Type="String">Su X</Item>
+		<Item Name="Author" Type="String">Luo X</Item>
+		<Item Name="Author" Type="String">Zhu W</Item>
+		<Item Name="Author" Type="String">Wei Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wei Y</Item>
+	<Item Name="Title" Type="String">Cationic liposome mediated delivery of FUS1 and hIL-12 coexpression plasmid demonstrates enhanced activity against human lung cancer.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">167-80</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101094211</Item>
+	<Item Name="ISSN" Type="String">1568-0096</Item>
+	<Item Name="ESSN" Type="String">1873-5576</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24410728</Item>
+		<Item Name="pii" Type="String">CCDT-EPUB-58602</Item>
+		<Item Name="rid" Type="String">24410728</Item>
+		<Item Name="eid" Type="String">24410728</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/10/09 00:00</Item>
+		<Item Name="revised" Type="Date">2013/12/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/01/14 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/01/15 06:00</Item>
+		<Item Name="medline" Type="Date">2015/06/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Current cancer drug targets</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2014;14(2):167-80</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24410728</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Curr Cancer Drug Targets</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ren J</Item>
+		<Item Name="Author" Type="String">Yu C</Item>
+		<Item Name="Author" Type="String">Wu S</Item>
+		<Item Name="Author" Type="String">Peng F</Item>
+		<Item Name="Author" Type="String">Jiang Q</Item>
+		<Item Name="Author" Type="String">Zhang X</Item>
+		<Item Name="Author" Type="String">Zhong G</Item>
+		<Item Name="Author" Type="String">Shi H</Item>
+		<Item Name="Author" Type="String">Chen X</Item>
+		<Item Name="Author" Type="String">Su X</Item>
+		<Item Name="Author" Type="String">Luo X</Item>
+		<Item Name="Author" Type="String">Zhu W</Item>
+		<Item Name="Author" Type="String">Wei Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wei Y</Item>
+	<Item Name="Title" Type="String">Cationic liposome mediated delivery of FUS1 and hIL-12 coexpression plasmid demonstrates enhanced activity against human lung cancer.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">167-80</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101094211</Item>
+	<Item Name="ISSN" Type="String">1568-0096</Item>
+	<Item Name="ESSN" Type="String">1873-5576</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24410728</Item>
+		<Item Name="pii" Type="String">CCDT-EPUB-58602</Item>
+		<Item Name="rid" Type="String">24410728</Item>
+		<Item Name="eid" Type="String">24410728</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/10/09 00:00</Item>
+		<Item Name="revised" Type="Date">2013/12/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/01/14 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/01/15 06:00</Item>
+		<Item Name="medline" Type="Date">2015/06/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Current cancer drug targets</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2014;14(2):167-80</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24410728</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Curr Cancer Drug Targets</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ren J</Item>
+		<Item Name="Author" Type="String">Yu C</Item>
+		<Item Name="Author" Type="String">Wu S</Item>
+		<Item Name="Author" Type="String">Peng F</Item>
+		<Item Name="Author" Type="String">Jiang Q</Item>
+		<Item Name="Author" Type="String">Zhang X</Item>
+		<Item Name="Author" Type="String">Zhong G</Item>
+		<Item Name="Author" Type="String">Shi H</Item>
+		<Item Name="Author" Type="String">Chen X</Item>
+		<Item Name="Author" Type="String">Su X</Item>
+		<Item Name="Author" Type="String">Luo X</Item>
+		<Item Name="Author" Type="String">Zhu W</Item>
+		<Item Name="Author" Type="String">Wei Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wei Y</Item>
+	<Item Name="Title" Type="String">Cationic liposome mediated delivery of FUS1 and hIL-12 coexpression plasmid demonstrates enhanced activity against human lung cancer.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">167-80</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101094211</Item>
+	<Item Name="ISSN" Type="String">1568-0096</Item>
+	<Item Name="ESSN" Type="String">1873-5576</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24410728</Item>
+		<Item Name="pii" Type="String">CCDT-EPUB-58602</Item>
+		<Item Name="rid" Type="String">24410728</Item>
+		<Item Name="eid" Type="String">24410728</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/10/09 00:00</Item>
+		<Item Name="revised" Type="Date">2013/12/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/01/14 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/01/15 06:00</Item>
+		<Item Name="medline" Type="Date">2015/06/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Current cancer drug targets</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2014;14(2):167-80</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25279998</Id>
+	<Item Name="PubDate" Type="Date">2014 Nov 17</Item>
+	<Item Name="EPubDate" Type="Date">2014 Oct 16</Item>
+	<Item Name="Source" Type="String">Chem Res Toxicol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Penning TM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Penning TM</Item>
+	<Item Name="Title" Type="String">Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.</Item>
+	<Item Name="Volume" Type="String">27</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">1901-17</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8807448</Item>
+	<Item Name="ISSN" Type="String">0893-228X</Item>
+	<Item Name="ESSN" Type="String">1520-5010</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25279998</Item>
+		<Item Name="doi" Type="String">10.1021/tx500298n</Item>
+		<Item Name="pmc" Type="String">PMC4237494</Item>
+		<Item Name="rid" Type="String">25279998</Item>
+		<Item Name="eid" Type="String">25279998</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4237494;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1021/tx500298n</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2014/10/04 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/10/04 06:00</Item>
+		<Item Name="medline" Type="Date">2015/07/07 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">15</Item>
+	<Item Name="FullJournalName" Type="String">Chemical research in toxicology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1021/tx500298n</Item>
+	<Item Name="SO" Type="String">2014 Nov 17;27(11):1901-17</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25279998</Id>
+	<Item Name="PubDate" Type="Date">2014 Nov 17</Item>
+	<Item Name="EPubDate" Type="Date">2014 Oct 16</Item>
+	<Item Name="Source" Type="String">Chem Res Toxicol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Penning TM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Penning TM</Item>
+	<Item Name="Title" Type="String">Human aldo-keto reductases and the metabolic activation of polycyclic aromatic hydrocarbons.</Item>
+	<Item Name="Volume" Type="String">27</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">1901-17</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8807448</Item>
+	<Item Name="ISSN" Type="String">0893-228X</Item>
+	<Item Name="ESSN" Type="String">1520-5010</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25279998</Item>
+		<Item Name="doi" Type="String">10.1021/tx500298n</Item>
+		<Item Name="pmc" Type="String">PMC4237494</Item>
+		<Item Name="rid" Type="String">25279998</Item>
+		<Item Name="eid" Type="String">25279998</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4237494;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1021/tx500298n</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2014/10/04 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/10/04 06:00</Item>
+		<Item Name="medline" Type="Date">2015/07/07 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">15</Item>
+	<Item Name="FullJournalName" Type="String">Chemical research in toxicology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1021/tx500298n</Item>
+	<Item Name="SO" Type="String">2014 Nov 17;27(11):1901-17</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25490748</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date">2014 Dec 9</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">An HK</Item>
+		<Item Name="Author" Type="String">Kim KS</Item>
+		<Item Name="Author" Type="String">Lee JW</Item>
+		<Item Name="Author" Type="String">Park MH</Item>
+		<Item Name="Author" Type="String">Moon HI</Item>
+		<Item Name="Author" Type="String">Park SJ</Item>
+		<Item Name="Author" Type="String">Baik JS</Item>
+		<Item Name="Author" Type="String">Kim CH</Item>
+		<Item Name="Author" Type="String">Lee YC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee YC</Item>
+	<Item Name="Title" Type="String">Mimulone-induced autophagy through p53-mediated AMPK/mTOR pathway increases caspase-mediated apoptotic cell death in A549 human lung cancer cells.</Item>
+	<Item Name="Volume" Type="String">9</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">e114607</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25490748</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0114607</Item>
+		<Item Name="pii" Type="String">PONE-D-14-25243</Item>
+		<Item Name="pmc" Type="String">PMC4260910</Item>
+		<Item Name="rid" Type="String">25490748</Item>
+		<Item Name="eid" Type="String">25490748</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4260910;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0114607</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/07/02 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/11/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/12/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/12/10 06:00</Item>
+		<Item Name="medline" Type="Date">2016/01/27 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">10</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0114607</Item>
+	<Item Name="SO" Type="String">2014;9(12):e114607</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25490748</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date">2014 Dec 9</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">An HK</Item>
+		<Item Name="Author" Type="String">Kim KS</Item>
+		<Item Name="Author" Type="String">Lee JW</Item>
+		<Item Name="Author" Type="String">Park MH</Item>
+		<Item Name="Author" Type="String">Moon HI</Item>
+		<Item Name="Author" Type="String">Park SJ</Item>
+		<Item Name="Author" Type="String">Baik JS</Item>
+		<Item Name="Author" Type="String">Kim CH</Item>
+		<Item Name="Author" Type="String">Lee YC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee YC</Item>
+	<Item Name="Title" Type="String">Mimulone-induced autophagy through p53-mediated AMPK/mTOR pathway increases caspase-mediated apoptotic cell death in A549 human lung cancer cells.</Item>
+	<Item Name="Volume" Type="String">9</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">e114607</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25490748</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0114607</Item>
+		<Item Name="pii" Type="String">PONE-D-14-25243</Item>
+		<Item Name="pmc" Type="String">PMC4260910</Item>
+		<Item Name="rid" Type="String">25490748</Item>
+		<Item Name="eid" Type="String">25490748</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4260910;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0114607</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/07/02 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/11/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/12/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/12/10 06:00</Item>
+		<Item Name="medline" Type="Date">2016/01/27 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">10</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0114607</Item>
+	<Item Name="SO" Type="String">2014;9(12):e114607</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25649746</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 4</Item>
+	<Item Name="Source" Type="String">Am J Chin Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Shen Y</Item>
+		<Item Name="Author" Type="String">Meng L</Item>
+		<Item Name="Author" Type="String">Sun H</Item>
+		<Item Name="Author" Type="String">Zhu Y</Item>
+		<Item Name="Author" Type="String">Liu H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Liu H</Item>
+	<Item Name="Title" Type="String">Cochinchina momordica seed suppresses proliferation and metastasis in human lung cancer cells by regulating multiple molecular targets.</Item>
+	<Item Name="Volume" Type="String">43</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">149-66</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7901431</Item>
+	<Item Name="ISSN" Type="String">0192-415X</Item>
+	<Item Name="ESSN" Type="String">1793-6853</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25649746</Item>
+		<Item Name="doi" Type="String">10.1142/S0192415X1550010X</Item>
+		<Item Name="rid" Type="String">25649746</Item>
+		<Item Name="eid" Type="String">25649746</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1142/S0192415X1550010X</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/02/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/02/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/09/22 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">1</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of Chinese medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1142/S0192415X1550010X</Item>
+	<Item Name="SO" Type="String">2015;43(1):149-66</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25737737</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 9</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yeh YC</Item>
+		<Item Name="Author" Type="String">Liu TJ</Item>
+		<Item Name="Author" Type="String">Lai HC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lai HC</Item>
+	<Item Name="Title" Type="String">Shikonin Induces Apoptosis, Necrosis, and Premature Senescence of Human A549 Lung Cancer Cells through Upregulation of p53 Expression.</Item>
+	<Item Name="Volume" Type="String">2015</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">620383</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25737737</Item>
+		<Item Name="doi" Type="String">10.1155/2015/620383</Item>
+		<Item Name="pmc" Type="String">PMC4337265</Item>
+		<Item Name="rid" Type="String">25737737</Item>
+		<Item Name="eid" Type="String">25737737</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4337265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2015/620383</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/11/19 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/03/05 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2015/620383</Item>
+	<Item Name="SO" Type="String">2015;2015:620383</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25737737</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 9</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yeh YC</Item>
+		<Item Name="Author" Type="String">Liu TJ</Item>
+		<Item Name="Author" Type="String">Lai HC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lai HC</Item>
+	<Item Name="Title" Type="String">Shikonin Induces Apoptosis, Necrosis, and Premature Senescence of Human A549 Lung Cancer Cells through Upregulation of p53 Expression.</Item>
+	<Item Name="Volume" Type="String">2015</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">620383</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25737737</Item>
+		<Item Name="doi" Type="String">10.1155/2015/620383</Item>
+		<Item Name="pmc" Type="String">PMC4337265</Item>
+		<Item Name="rid" Type="String">25737737</Item>
+		<Item Name="eid" Type="String">25737737</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4337265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2015/620383</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/11/19 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/03/05 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2015/620383</Item>
+	<Item Name="SO" Type="String">2015;2015:620383</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25737737</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 9</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yeh YC</Item>
+		<Item Name="Author" Type="String">Liu TJ</Item>
+		<Item Name="Author" Type="String">Lai HC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lai HC</Item>
+	<Item Name="Title" Type="String">Shikonin Induces Apoptosis, Necrosis, and Premature Senescence of Human A549 Lung Cancer Cells through Upregulation of p53 Expression.</Item>
+	<Item Name="Volume" Type="String">2015</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">620383</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25737737</Item>
+		<Item Name="doi" Type="String">10.1155/2015/620383</Item>
+		<Item Name="pmc" Type="String">PMC4337265</Item>
+		<Item Name="rid" Type="String">25737737</Item>
+		<Item Name="eid" Type="String">25737737</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4337265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2015/620383</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/11/19 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/03/05 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2015/620383</Item>
+	<Item Name="SO" Type="String">2015;2015:620383</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25737737</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 9</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yeh YC</Item>
+		<Item Name="Author" Type="String">Liu TJ</Item>
+		<Item Name="Author" Type="String">Lai HC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lai HC</Item>
+	<Item Name="Title" Type="String">Shikonin Induces Apoptosis, Necrosis, and Premature Senescence of Human A549 Lung Cancer Cells through Upregulation of p53 Expression.</Item>
+	<Item Name="Volume" Type="String">2015</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">620383</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25737737</Item>
+		<Item Name="doi" Type="String">10.1155/2015/620383</Item>
+		<Item Name="pmc" Type="String">PMC4337265</Item>
+		<Item Name="rid" Type="String">25737737</Item>
+		<Item Name="eid" Type="String">25737737</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4337265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2015/620383</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/11/19 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/03/05 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2015/620383</Item>
+	<Item Name="SO" Type="String">2015;2015:620383</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25737737</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Feb 9</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yeh YC</Item>
+		<Item Name="Author" Type="String">Liu TJ</Item>
+		<Item Name="Author" Type="String">Lai HC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lai HC</Item>
+	<Item Name="Title" Type="String">Shikonin Induces Apoptosis, Necrosis, and Premature Senescence of Human A549 Lung Cancer Cells through Upregulation of p53 Expression.</Item>
+	<Item Name="Volume" Type="String">2015</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">620383</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25737737</Item>
+		<Item Name="doi" Type="String">10.1155/2015/620383</Item>
+		<Item Name="pmc" Type="String">PMC4337265</Item>
+		<Item Name="rid" Type="String">25737737</Item>
+		<Item Name="eid" Type="String">25737737</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4337265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2015/620383</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/11/19 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/03/05 06:00</Item>
+		<Item Name="medline" Type="Date">2015/03/05 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2015/620383</Item>
+	<Item Name="SO" Type="String">2015;2015:620383</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25964547</Id>
+	<Item Name="PubDate" Type="Date">2015 May</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Anticancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ko YC</Item>
+		<Item Name="Author" Type="String">Lien JC</Item>
+		<Item Name="Author" Type="String">Liu HC</Item>
+		<Item Name="Author" Type="String">Hsu SC</Item>
+		<Item Name="Author" Type="String">Lin HY</Item>
+		<Item Name="Author" Type="String">Chueh FS</Item>
+		<Item Name="Author" Type="String">Ji BC</Item>
+		<Item Name="Author" Type="String">Yang MD</Item>
+		<Item Name="Author" Type="String">Hsu WH</Item>
+		<Item Name="Author" Type="String">Chung JG</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chung JG</Item>
+	<Item Name="Title" Type="String">Demethoxycurcumin-induced DNA Damage Decreases DNA Repair-associated Protein Expression Levels in NCI-H460 Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">35</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">2691-8</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8102988</Item>
+	<Item Name="ISSN" Type="String">0250-7005</Item>
+	<Item Name="ESSN" Type="String">1791-7530</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25964547</Item>
+		<Item Name="pii" Type="String">35/5/2691</Item>
+		<Item Name="rid" Type="String">25964547</Item>
+		<Item Name="eid" Type="String">25964547</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/05/13 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/05/13 06:00</Item>
+		<Item Name="medline" Type="Date">2015/08/08 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">1</Item>
+	<Item Name="FullJournalName" Type="String">Anticancer research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2015 May;35(5):2691-8</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26091798</Id>
+	<Item Name="PubDate" Type="Date">2015 Sep 15</Item>
+	<Item Name="EPubDate" Type="Date">2015 Jun 17</Item>
+	<Item Name="Source" Type="String">Toxicol Appl Pharmacol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Park YH</Item>
+		<Item Name="Author" Type="String">Kim D</Item>
+		<Item Name="Author" Type="String">Dai J</Item>
+		<Item Name="Author" Type="String">Zhang Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang Z</Item>
+	<Item Name="Title" Type="String">Human bronchial epithelial BEAS-2B cells, an appropriate in vitro model to study heavy metals induced carcinogenesis.</Item>
+	<Item Name="Volume" Type="String">287</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">240-5</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0416575</Item>
+	<Item Name="ISSN" Type="String">0041-008X</Item>
+	<Item Name="ESSN" Type="String">1096-0333</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26091798</Item>
+		<Item Name="pii" Type="String">S0041-008X(15)30014-4</Item>
+		<Item Name="doi" Type="String">10.1016/j.taap.2015.06.008</Item>
+		<Item Name="pmc" Type="String">PMC4549192</Item>
+		<Item Name="mid" Type="String">NIHMS705134</Item>
+		<Item Name="rid" Type="String">26091798</Item>
+		<Item Name="eid" Type="String">26091798</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4549192;manuscript-id: NIHMS705134;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.taap.2015.06.008</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/04/29 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/06/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/06/21 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/06/21 06:00</Item>
+		<Item Name="medline" Type="Date">2015/11/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">10</Item>
+	<Item Name="FullJournalName" Type="String">Toxicology and applied pharmacology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.taap.2015.06.008</Item>
+	<Item Name="SO" Type="String">2015 Sep 15;287(3):240-5</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26091798</Id>
+	<Item Name="PubDate" Type="Date">2015 Sep 15</Item>
+	<Item Name="EPubDate" Type="Date">2015 Jun 17</Item>
+	<Item Name="Source" Type="String">Toxicol Appl Pharmacol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Park YH</Item>
+		<Item Name="Author" Type="String">Kim D</Item>
+		<Item Name="Author" Type="String">Dai J</Item>
+		<Item Name="Author" Type="String">Zhang Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang Z</Item>
+	<Item Name="Title" Type="String">Human bronchial epithelial BEAS-2B cells, an appropriate in vitro model to study heavy metals induced carcinogenesis.</Item>
+	<Item Name="Volume" Type="String">287</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">240-5</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0416575</Item>
+	<Item Name="ISSN" Type="String">0041-008X</Item>
+	<Item Name="ESSN" Type="String">1096-0333</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26091798</Item>
+		<Item Name="pii" Type="String">S0041-008X(15)30014-4</Item>
+		<Item Name="doi" Type="String">10.1016/j.taap.2015.06.008</Item>
+		<Item Name="pmc" Type="String">PMC4549192</Item>
+		<Item Name="mid" Type="String">NIHMS705134</Item>
+		<Item Name="rid" Type="String">26091798</Item>
+		<Item Name="eid" Type="String">26091798</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4549192;manuscript-id: NIHMS705134;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.taap.2015.06.008</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/04/29 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/06/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/06/21 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/06/21 06:00</Item>
+		<Item Name="medline" Type="Date">2015/11/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">10</Item>
+	<Item Name="FullJournalName" Type="String">Toxicology and applied pharmacology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.taap.2015.06.008</Item>
+	<Item Name="SO" Type="String">2015 Sep 15;287(3):240-5</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26124332</Id>
+	<Item Name="PubDate" Type="Date">2015 Jul</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Anticancer Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ting CY</Item>
+		<Item Name="Author" Type="String">Wang HE</Item>
+		<Item Name="Author" Type="String">Yu CC</Item>
+		<Item Name="Author" Type="String">Liu HC</Item>
+		<Item Name="Author" Type="String">Liu YC</Item>
+		<Item Name="Author" Type="String">Chiang IT</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chiang IT</Item>
+	<Item Name="Title" Type="String">Curcumin Triggers DNA Damage and Inhibits Expression of DNA Repair Proteins in Human Lung Cancer Cells.</Item>
+	<Item Name="Volume" Type="String">35</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">3867-73</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8102988</Item>
+	<Item Name="ISSN" Type="String">0250-7005</Item>
+	<Item Name="ESSN" Type="String">1791-7530</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26124332</Item>
+		<Item Name="pii" Type="String">35/7/3867</Item>
+		<Item Name="rid" Type="String">26124332</Item>
+		<Item Name="eid" Type="String">26124332</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/07/01 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/07/01 06:00</Item>
+		<Item Name="medline" Type="Date">2015/09/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Anticancer research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2015 Jul;35(7):3867-73</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26196503</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Jul 21</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Huber S</Item>
+		<Item Name="Author" Type="String">Huettner JP</Item>
+		<Item Name="Author" Type="String">Hacker K</Item>
+		<Item Name="Author" Type="String">Bernhardt G</Item>
+		<Item Name="Author" Type="String">König J</Item>
+		<Item Name="Author" Type="String">Buschauer A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Buschauer A</Item>
+	<Item Name="Title" Type="String">Esters of Bendamustine Are by Far More Potent Cytotoxic Agents than the Parent Compound against Human Sarcoma and Carcinoma Cells.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">e0133743</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26196503</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0133743</Item>
+		<Item Name="pii" Type="String">PONE-D-15-03148</Item>
+		<Item Name="pmc" Type="String">PMC4721923</Item>
+		<Item Name="rid" Type="String">26196503</Item>
+		<Item Name="eid" Type="String">26196503</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4721923;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0133743</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/01/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/06/30 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/07/22 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/07/22 06:00</Item>
+		<Item Name="medline" Type="Date">2016/05/14 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0133743</Item>
+	<Item Name="SO" Type="String">2015;10(7):e0133743</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26244663</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Aug 5</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kim J</Item>
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Choi JW</Item>
+		<Item Name="Author" Type="String">Kim HW</Item>
+		<Item Name="Author" Type="String">Yeh BI</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+		<Item Name="Author" Type="String">Cha JH</Item>
+		<Item Name="Author" Type="String">Jeong Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Jeong Y</Item>
+	<Item Name="Title" Type="String">Nuclear Receptor Expression and Function in Human Lung Cancer Pathogenesis.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">e0134842</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26244663</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0134842</Item>
+		<Item Name="pii" Type="String">PONE-D-15-04258</Item>
+		<Item Name="pmc" Type="String">PMC4526668</Item>
+		<Item Name="rid" Type="String">26244663</Item>
+		<Item Name="eid" Type="String">26244663</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4526668;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0134842</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/02/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/07/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="medline" Type="Date">2016/05/14 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0134842</Item>
+	<Item Name="SO" Type="String">2015;10(8):e0134842</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26244663</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Aug 5</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kim J</Item>
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Choi JW</Item>
+		<Item Name="Author" Type="String">Kim HW</Item>
+		<Item Name="Author" Type="String">Yeh BI</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+		<Item Name="Author" Type="String">Cha JH</Item>
+		<Item Name="Author" Type="String">Jeong Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Jeong Y</Item>
+	<Item Name="Title" Type="String">Nuclear Receptor Expression and Function in Human Lung Cancer Pathogenesis.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">e0134842</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26244663</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0134842</Item>
+		<Item Name="pii" Type="String">PONE-D-15-04258</Item>
+		<Item Name="pmc" Type="String">PMC4526668</Item>
+		<Item Name="rid" Type="String">26244663</Item>
+		<Item Name="eid" Type="String">26244663</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4526668;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0134842</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/02/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/07/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="medline" Type="Date">2016/05/14 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0134842</Item>
+	<Item Name="SO" Type="String">2015;10(8):e0134842</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26244663</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Aug 5</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kim J</Item>
+		<Item Name="Author" Type="String">Sato M</Item>
+		<Item Name="Author" Type="String">Choi JW</Item>
+		<Item Name="Author" Type="String">Kim HW</Item>
+		<Item Name="Author" Type="String">Yeh BI</Item>
+		<Item Name="Author" Type="String">Larsen JE</Item>
+		<Item Name="Author" Type="String">Minna JD</Item>
+		<Item Name="Author" Type="String">Cha JH</Item>
+		<Item Name="Author" Type="String">Jeong Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Jeong Y</Item>
+	<Item Name="Title" Type="String">Nuclear Receptor Expression and Function in Human Lung Cancer Pathogenesis.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">e0134842</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26244663</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0134842</Item>
+		<Item Name="pii" Type="String">PONE-D-15-04258</Item>
+		<Item Name="pmc" Type="String">PMC4526668</Item>
+		<Item Name="rid" Type="String">26244663</Item>
+		<Item Name="eid" Type="String">26244663</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4526668;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0134842</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/02/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/07/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="medline" Type="Date">2016/05/14 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0134842</Item>
+	<Item Name="SO" Type="String">2015;10(8):e0134842</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26320467</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Asian Pac J Cancer Prev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Choi EY</Item>
+		<Item Name="Author" Type="String">Shin KC</Item>
+		<Item Name="Author" Type="String">Lee J</Item>
+		<Item Name="Author" Type="String">Kwon TK</Item>
+		<Item Name="Author" Type="String">Kim S</Item>
+		<Item Name="Author" Type="String">Park JW</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Park JW</Item>
+	<Item Name="Title" Type="String">Treatment with a Small Synthetic Compound, KMU-193, induces Apoptosis in A549 Human Lung Carcinoma Cells through p53 Up-Regulation.</Item>
+	<Item Name="Volume" Type="String">16</Item>
+	<Item Name="Issue" Type="String">14</Item>
+	<Item Name="Pages" Type="String">5883-7</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101130625</Item>
+	<Item Name="ISSN" Type="String">1513-7368</Item>
+	<Item Name="ESSN" Type="String">2476-762X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26320467</Item>
+		<Item Name="rid" Type="String">26320467</Item>
+		<Item Name="eid" Type="String">26320467</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/09/01 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/09/01 06:00</Item>
+		<Item Name="medline" Type="Date">2016/06/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">1</Item>
+	<Item Name="FullJournalName" Type="String">Asian Pacific journal of cancer prevention : APJCP</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2015;16(14):5883-7</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26580599</Id>
+	<Item Name="PubDate" Type="Date">2015 Nov 13</Item>
+	<Item Name="EPubDate" Type="Date">2015 Nov 13</Item>
+	<Item Name="Source" Type="String">Int J Mol Sci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Maj E</Item>
+		<Item Name="Author" Type="String">Filip-Psurska B</Item>
+		<Item Name="Author" Type="String">Świtalska M</Item>
+		<Item Name="Author" Type="String">Kutner A</Item>
+		<Item Name="Author" Type="String">Wietrzyk J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wietrzyk J</Item>
+	<Item Name="Title" Type="String">Vitamin D Analogs Potentiate the Antitumor Effect of Imatinib Mesylate in a Human A549 Lung Tumor Model.</Item>
+	<Item Name="Volume" Type="String">16</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">27191-207</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101092791</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1422-0067</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26580599</Item>
+		<Item Name="pii" Type="String">ijms161126016</Item>
+		<Item Name="doi" Type="String">10.3390/ijms161126016</Item>
+		<Item Name="pmc" Type="String">PMC4661874</Item>
+		<Item Name="rid" Type="String">26580599</Item>
+		<Item Name="eid" Type="String">26580599</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4661874;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3390/ijms161126016</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/09/25 00:00</Item>
+		<Item Name="revised" Type="Date">2015/10/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/11/02 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/11/19 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/11/19 06:00</Item>
+		<Item Name="medline" Type="Date">2016/08/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">7</Item>
+	<Item Name="FullJournalName" Type="String">International journal of molecular sciences</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3390/ijms161126016</Item>
+	<Item Name="SO" Type="String">2015 Nov 13;16(11):27191-207</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26712741</Id>
+	<Item Name="PubDate" Type="Date">2015 Dec 24</Item>
+	<Item Name="EPubDate" Type="Date">2015 Dec 24</Item>
+	<Item Name="Source" Type="String">Int J Mol Sci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Li K</Item>
+		<Item Name="Author" Type="String">Liu J</Item>
+		<Item Name="Author" Type="String">Tian M</Item>
+		<Item Name="Author" Type="String">Gao G</Item>
+		<Item Name="Author" Type="String">Qi X</Item>
+		<Item Name="Author" Type="String">Pan Y</Item>
+		<Item Name="Author" Type="String">Ruan J</Item>
+		<Item Name="Author" Type="String">Liu C</Item>
+		<Item Name="Author" Type="String">Su X</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Su X</Item>
+	<Item Name="Title" Type="String">CHMP4C Disruption Sensitizes the Human Lung Cancer Cells to Irradiation.</Item>
+	<Item Name="Volume" Type="String">17</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101092791</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1422-0067</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26712741</Item>
+		<Item Name="pii" Type="String">ijms17010018</Item>
+		<Item Name="doi" Type="String">10.3390/ijms17010018</Item>
+		<Item Name="pmc" Type="String">PMC4730265</Item>
+		<Item Name="rid" Type="String">26712741</Item>
+		<Item Name="eid" Type="String">26712741</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4730265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3390/ijms17010018</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/11/17 00:00</Item>
+		<Item Name="revised" Type="Date">2015/12/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/12/18 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/12/30 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/12/30 06:00</Item>
+		<Item Name="medline" Type="Date">2016/10/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">International journal of molecular sciences</Item>
+	<Item Name="ELocationID" Type="String">pii: E18. doi: 10.3390/ijms17010018</Item>
+	<Item Name="SO" Type="String">2015 Dec 24;17(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26712741</Id>
+	<Item Name="PubDate" Type="Date">2015 Dec 24</Item>
+	<Item Name="EPubDate" Type="Date">2015 Dec 24</Item>
+	<Item Name="Source" Type="String">Int J Mol Sci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Li K</Item>
+		<Item Name="Author" Type="String">Liu J</Item>
+		<Item Name="Author" Type="String">Tian M</Item>
+		<Item Name="Author" Type="String">Gao G</Item>
+		<Item Name="Author" Type="String">Qi X</Item>
+		<Item Name="Author" Type="String">Pan Y</Item>
+		<Item Name="Author" Type="String">Ruan J</Item>
+		<Item Name="Author" Type="String">Liu C</Item>
+		<Item Name="Author" Type="String">Su X</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Su X</Item>
+	<Item Name="Title" Type="String">CHMP4C Disruption Sensitizes the Human Lung Cancer Cells to Irradiation.</Item>
+	<Item Name="Volume" Type="String">17</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101092791</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1422-0067</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26712741</Item>
+		<Item Name="pii" Type="String">ijms17010018</Item>
+		<Item Name="doi" Type="String">10.3390/ijms17010018</Item>
+		<Item Name="pmc" Type="String">PMC4730265</Item>
+		<Item Name="rid" Type="String">26712741</Item>
+		<Item Name="eid" Type="String">26712741</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4730265;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3390/ijms17010018</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/11/17 00:00</Item>
+		<Item Name="revised" Type="Date">2015/12/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/12/18 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/12/30 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/12/30 06:00</Item>
+		<Item Name="medline" Type="Date">2016/10/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">International journal of molecular sciences</Item>
+	<Item Name="ELocationID" Type="String">pii: E18. doi: 10.3390/ijms17010018</Item>
+	<Item Name="SO" Type="String">2015 Dec 24;17(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27375834</Id>
+	<Item Name="PubDate" Type="Date">2016</Item>
+	<Item Name="EPubDate" Type="Date">2016 Jun 8</Item>
+	<Item Name="Source" Type="String">Oxid Med Cell Longev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vilema-Enríquez G</Item>
+		<Item Name="Author" Type="String">Arroyo A</Item>
+		<Item Name="Author" Type="String">Grijalva M</Item>
+		<Item Name="Author" Type="String">Amador-Zafra RI</Item>
+		<Item Name="Author" Type="String">Camacho J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Camacho J</Item>
+	<Item Name="Title" Type="String">Molecular and Cellular Effects of Hydrogen Peroxide on Human Lung Cancer Cells: Potential Therapeutic Implications.</Item>
+	<Item Name="Volume" Type="String">2016</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1908164</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101479826</Item>
+	<Item Name="ISSN" Type="String">1942-0900</Item>
+	<Item Name="ESSN" Type="String">1942-0994</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27375834</Item>
+		<Item Name="doi" Type="String">10.1155/2016/1908164</Item>
+		<Item Name="pmc" Type="String">PMC4916325</Item>
+		<Item Name="rid" Type="String">27375834</Item>
+		<Item Name="eid" Type="String">27375834</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4916325;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2016/1908164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/03/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="medline" Type="Date">2017/07/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Oxidative medicine and cellular longevity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2016/1908164</Item>
+	<Item Name="SO" Type="String">2016;2016:1908164</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27375834</Id>
+	<Item Name="PubDate" Type="Date">2016</Item>
+	<Item Name="EPubDate" Type="Date">2016 Jun 8</Item>
+	<Item Name="Source" Type="String">Oxid Med Cell Longev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vilema-Enríquez G</Item>
+		<Item Name="Author" Type="String">Arroyo A</Item>
+		<Item Name="Author" Type="String">Grijalva M</Item>
+		<Item Name="Author" Type="String">Amador-Zafra RI</Item>
+		<Item Name="Author" Type="String">Camacho J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Camacho J</Item>
+	<Item Name="Title" Type="String">Molecular and Cellular Effects of Hydrogen Peroxide on Human Lung Cancer Cells: Potential Therapeutic Implications.</Item>
+	<Item Name="Volume" Type="String">2016</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1908164</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101479826</Item>
+	<Item Name="ISSN" Type="String">1942-0900</Item>
+	<Item Name="ESSN" Type="String">1942-0994</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27375834</Item>
+		<Item Name="doi" Type="String">10.1155/2016/1908164</Item>
+		<Item Name="pmc" Type="String">PMC4916325</Item>
+		<Item Name="rid" Type="String">27375834</Item>
+		<Item Name="eid" Type="String">27375834</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4916325;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2016/1908164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/03/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="medline" Type="Date">2017/07/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Oxidative medicine and cellular longevity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2016/1908164</Item>
+	<Item Name="SO" Type="String">2016;2016:1908164</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27375834</Id>
+	<Item Name="PubDate" Type="Date">2016</Item>
+	<Item Name="EPubDate" Type="Date">2016 Jun 8</Item>
+	<Item Name="Source" Type="String">Oxid Med Cell Longev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vilema-Enríquez G</Item>
+		<Item Name="Author" Type="String">Arroyo A</Item>
+		<Item Name="Author" Type="String">Grijalva M</Item>
+		<Item Name="Author" Type="String">Amador-Zafra RI</Item>
+		<Item Name="Author" Type="String">Camacho J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Camacho J</Item>
+	<Item Name="Title" Type="String">Molecular and Cellular Effects of Hydrogen Peroxide on Human Lung Cancer Cells: Potential Therapeutic Implications.</Item>
+	<Item Name="Volume" Type="String">2016</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1908164</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101479826</Item>
+	<Item Name="ISSN" Type="String">1942-0900</Item>
+	<Item Name="ESSN" Type="String">1942-0994</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27375834</Item>
+		<Item Name="doi" Type="String">10.1155/2016/1908164</Item>
+		<Item Name="pmc" Type="String">PMC4916325</Item>
+		<Item Name="rid" Type="String">27375834</Item>
+		<Item Name="eid" Type="String">27375834</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4916325;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2016/1908164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/03/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="medline" Type="Date">2017/07/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Oxidative medicine and cellular longevity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2016/1908164</Item>
+	<Item Name="SO" Type="String">2016;2016:1908164</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27375834</Id>
+	<Item Name="PubDate" Type="Date">2016</Item>
+	<Item Name="EPubDate" Type="Date">2016 Jun 8</Item>
+	<Item Name="Source" Type="String">Oxid Med Cell Longev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vilema-Enríquez G</Item>
+		<Item Name="Author" Type="String">Arroyo A</Item>
+		<Item Name="Author" Type="String">Grijalva M</Item>
+		<Item Name="Author" Type="String">Amador-Zafra RI</Item>
+		<Item Name="Author" Type="String">Camacho J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Camacho J</Item>
+	<Item Name="Title" Type="String">Molecular and Cellular Effects of Hydrogen Peroxide on Human Lung Cancer Cells: Potential Therapeutic Implications.</Item>
+	<Item Name="Volume" Type="String">2016</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1908164</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101479826</Item>
+	<Item Name="ISSN" Type="String">1942-0900</Item>
+	<Item Name="ESSN" Type="String">1942-0994</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27375834</Item>
+		<Item Name="doi" Type="String">10.1155/2016/1908164</Item>
+		<Item Name="pmc" Type="String">PMC4916325</Item>
+		<Item Name="rid" Type="String">27375834</Item>
+		<Item Name="eid" Type="String">27375834</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4916325;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2016/1908164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/03/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/10 00:00</Item>
+		<Item Name="entrez" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="pubmed" Type="Date">2016/07/05 06:00</Item>
+		<Item Name="medline" Type="Date">2017/07/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">Oxidative medicine and cellular longevity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2016/1908164</Item>
+	<Item Name="SO" Type="String">2016;2016:1908164</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27452519</Id>
+	<Item Name="PubDate" Type="Date">2017 Feb 16</Item>
+	<Item Name="EPubDate" Type="Date">2016 Jul 25</Item>
+	<Item Name="Source" Type="String">Oncogene</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rada M</Item>
+		<Item Name="Author" Type="String">Vasileva E</Item>
+		<Item Name="Author" Type="String">Lezina L</Item>
+		<Item Name="Author" Type="String">Marouco D</Item>
+		<Item Name="Author" Type="String">Antonov AV</Item>
+		<Item Name="Author" Type="String">Macip S</Item>
+		<Item Name="Author" Type="String">Melino G</Item>
+		<Item Name="Author" Type="String">Barlev NA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Barlev NA</Item>
+	<Item Name="Title" Type="String">Human EHMT2/G9a activates p53 through methylation-independent mechanism.</Item>
+	<Item Name="Volume" Type="String">36</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">922-932</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8711562</Item>
+	<Item Name="ISSN" Type="String">0950-9232</Item>
+	<Item Name="ESSN" Type="String">1476-5594</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27452519</Item>
+		<Item Name="pii" Type="String">onc2016258</Item>
+		<Item Name="doi" Type="String">10.1038/onc.2016.258</Item>
+		<Item Name="rid" Type="String">27452519</Item>
+		<Item Name="eid" Type="String">27452519</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/onc.2016.258</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/02/03 00:00</Item>
+		<Item Name="revised" Type="Date">2016/05/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/23 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/07/28 06:00</Item>
+		<Item Name="medline" Type="Date">2017/09/13 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/07/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">7</Item>
+	<Item Name="FullJournalName" Type="String">Oncogene</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/onc.2016.258</Item>
+	<Item Name="SO" Type="String">2017 Feb 16;36(7):922-932</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27662422</Id>
+	<Item Name="PubDate" Type="Date">2017 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2017 Apr 10</Item>
+	<Item Name="Source" Type="String">J Cell Physiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kaushik V</Item>
+		<Item Name="Author" Type="String">Yakisich JS</Item>
+		<Item Name="Author" Type="String">Azad N</Item>
+		<Item Name="Author" Type="String">Kulkarni Y</Item>
+		<Item Name="Author" Type="String">Venkatadri R</Item>
+		<Item Name="Author" Type="String">Wright C</Item>
+		<Item Name="Author" Type="String">Rojanasakul Y</Item>
+		<Item Name="Author" Type="String">Iyer AKV</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Iyer AKV</Item>
+	<Item Name="Title" Type="String">Anti-Tumor Effects of Cardiac Glycosides on Human Lung Cancer Cells and Lung Tumorspheres.</Item>
+	<Item Name="Volume" Type="String">232</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2497-2507</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0050222</Item>
+	<Item Name="ISSN" Type="String">0021-9541</Item>
+	<Item Name="ESSN" Type="String">1097-4652</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27662422</Item>
+		<Item Name="doi" Type="String">10.1002/jcp.25611</Item>
+		<Item Name="rid" Type="String">27662422</Item>
+		<Item Name="eid" Type="String">27662422</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jcp.25611</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/04/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/09/21 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/09/24 06:00</Item>
+		<Item Name="medline" Type="Date">2017/08/09 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/09/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cellular physiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jcp.25611</Item>
+	<Item Name="SO" Type="String">2017 Sep;232(9):2497-2507</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27662422</Id>
+	<Item Name="PubDate" Type="Date">2017 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2017 Apr 10</Item>
+	<Item Name="Source" Type="String">J Cell Physiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kaushik V</Item>
+		<Item Name="Author" Type="String">Yakisich JS</Item>
+		<Item Name="Author" Type="String">Azad N</Item>
+		<Item Name="Author" Type="String">Kulkarni Y</Item>
+		<Item Name="Author" Type="String">Venkatadri R</Item>
+		<Item Name="Author" Type="String">Wright C</Item>
+		<Item Name="Author" Type="String">Rojanasakul Y</Item>
+		<Item Name="Author" Type="String">Iyer AKV</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Iyer AKV</Item>
+	<Item Name="Title" Type="String">Anti-Tumor Effects of Cardiac Glycosides on Human Lung Cancer Cells and Lung Tumorspheres.</Item>
+	<Item Name="Volume" Type="String">232</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2497-2507</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0050222</Item>
+	<Item Name="ISSN" Type="String">0021-9541</Item>
+	<Item Name="ESSN" Type="String">1097-4652</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27662422</Item>
+		<Item Name="doi" Type="String">10.1002/jcp.25611</Item>
+		<Item Name="rid" Type="String">27662422</Item>
+		<Item Name="eid" Type="String">27662422</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jcp.25611</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/04/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/09/21 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/09/24 06:00</Item>
+		<Item Name="medline" Type="Date">2017/08/09 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/09/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cellular physiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jcp.25611</Item>
+	<Item Name="SO" Type="String">2017 Sep;232(9):2497-2507</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27662422</Id>
+	<Item Name="PubDate" Type="Date">2017 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2017 Apr 10</Item>
+	<Item Name="Source" Type="String">J Cell Physiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kaushik V</Item>
+		<Item Name="Author" Type="String">Yakisich JS</Item>
+		<Item Name="Author" Type="String">Azad N</Item>
+		<Item Name="Author" Type="String">Kulkarni Y</Item>
+		<Item Name="Author" Type="String">Venkatadri R</Item>
+		<Item Name="Author" Type="String">Wright C</Item>
+		<Item Name="Author" Type="String">Rojanasakul Y</Item>
+		<Item Name="Author" Type="String">Iyer AKV</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Iyer AKV</Item>
+	<Item Name="Title" Type="String">Anti-Tumor Effects of Cardiac Glycosides on Human Lung Cancer Cells and Lung Tumorspheres.</Item>
+	<Item Name="Volume" Type="String">232</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2497-2507</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0050222</Item>
+	<Item Name="ISSN" Type="String">0021-9541</Item>
+	<Item Name="ESSN" Type="String">1097-4652</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27662422</Item>
+		<Item Name="doi" Type="String">10.1002/jcp.25611</Item>
+		<Item Name="rid" Type="String">27662422</Item>
+		<Item Name="eid" Type="String">27662422</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jcp.25611</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/04/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/09/21 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/09/24 06:00</Item>
+		<Item Name="medline" Type="Date">2017/08/09 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/09/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cellular physiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jcp.25611</Item>
+	<Item Name="SO" Type="String">2017 Sep;232(9):2497-2507</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28027428</Id>
+	<Item Name="PubDate" Type="Date">2017 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2017 Mar 21</Item>
+	<Item Name="Source" Type="String">Chem Biodivers</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lee TK</Item>
+		<Item Name="Author" Type="String">Roh HS</Item>
+		<Item Name="Author" Type="String">Yu JS</Item>
+		<Item Name="Author" Type="String">Baek J</Item>
+		<Item Name="Author" Type="String">Lee S</Item>
+		<Item Name="Author" Type="String">Ra M</Item>
+		<Item Name="Author" Type="String">Kim SY</Item>
+		<Item Name="Author" Type="String">Baek KH</Item>
+		<Item Name="Author" Type="String">Kim KH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kim KH</Item>
+	<Item Name="Title" Type="String">Pinecone of Pinus koraiensis Inducing Apoptosis in Human Lung Cancer Cells by Activating Caspase-3 and its Chemical Constituents.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101197449</Item>
+	<Item Name="ISSN" Type="String">1612-1872</Item>
+	<Item Name="ESSN" Type="String">1612-1880</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28027428</Item>
+		<Item Name="doi" Type="String">10.1002/cbdv.201600412</Item>
+		<Item Name="rid" Type="String">28027428</Item>
+		<Item Name="eid" Type="String">28027428</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/cbdv.201600412</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/10/30 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/12/22 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/12/28 06:00</Item>
+		<Item Name="medline" Type="Date">2017/04/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/12/28 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Chemistry &amp; biodiversity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/cbdv.201600412</Item>
+	<Item Name="SO" Type="String">2017 Apr;14(4)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28027428</Id>
+	<Item Name="PubDate" Type="Date">2017 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2017 Mar 21</Item>
+	<Item Name="Source" Type="String">Chem Biodivers</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lee TK</Item>
+		<Item Name="Author" Type="String">Roh HS</Item>
+		<Item Name="Author" Type="String">Yu JS</Item>
+		<Item Name="Author" Type="String">Baek J</Item>
+		<Item Name="Author" Type="String">Lee S</Item>
+		<Item Name="Author" Type="String">Ra M</Item>
+		<Item Name="Author" Type="String">Kim SY</Item>
+		<Item Name="Author" Type="String">Baek KH</Item>
+		<Item Name="Author" Type="String">Kim KH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kim KH</Item>
+	<Item Name="Title" Type="String">Pinecone of Pinus koraiensis Inducing Apoptosis in Human Lung Cancer Cells by Activating Caspase-3 and its Chemical Constituents.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101197449</Item>
+	<Item Name="ISSN" Type="String">1612-1872</Item>
+	<Item Name="ESSN" Type="String">1612-1880</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28027428</Item>
+		<Item Name="doi" Type="String">10.1002/cbdv.201600412</Item>
+		<Item Name="rid" Type="String">28027428</Item>
+		<Item Name="eid" Type="String">28027428</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/cbdv.201600412</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/10/30 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/12/22 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/12/28 06:00</Item>
+		<Item Name="medline" Type="Date">2017/04/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/12/28 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">3</Item>
+	<Item Name="FullJournalName" Type="String">Chemistry &amp; biodiversity</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/cbdv.201600412</Item>
+	<Item Name="SO" Type="String">2017 Apr;14(4)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28214344</Id>
+	<Item Name="PubDate" Type="Date">2017 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2017 Apr 27</Item>
+	<Item Name="Source" Type="String">J Cell Biochem</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sivalingam KS</Item>
+		<Item Name="Author" Type="String">Paramasivan P</Item>
+		<Item Name="Author" Type="String">Weng CF</Item>
+		<Item Name="Author" Type="String">Viswanadha VP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Viswanadha VP</Item>
+	<Item Name="Title" Type="String">Neferine Potentiates the Antitumor Effect of Cisplatin in Human Lung Adenocarcinoma Cells Via a Mitochondria-Mediated Apoptosis Pathway.</Item>
+	<Item Name="Volume" Type="String">118</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2865-2876</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8205768</Item>
+	<Item Name="ISSN" Type="String">0730-2312</Item>
+	<Item Name="ESSN" Type="String">1097-4644</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28214344</Item>
+		<Item Name="doi" Type="String">10.1002/jcb.25937</Item>
+		<Item Name="rid" Type="String">28214344</Item>
+		<Item Name="eid" Type="String">28214344</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jcb.25937</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2017/02/06 00:00</Item>
+		<Item Name="accepted" Type="Date">2017/02/16 00:00</Item>
+		<Item Name="pubmed" Type="Date">2017/02/19 06:00</Item>
+		<Item Name="medline" Type="Date">2017/12/22 06:00</Item>
+		<Item Name="entrez" Type="Date">2017/02/19 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">5</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cellular biochemistry</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jcb.25937</Item>
+	<Item Name="SO" Type="String">2017 Sep;118(9):2865-2876</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26244006</Id>
+	<Item Name="PubDate" Type="Date">2015</Item>
+	<Item Name="EPubDate" Type="Date">2015 Jun 29</Item>
+	<Item Name="Source" Type="String">Cancer Inform</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Feng H</Item>
+		<Item Name="Author" Type="String">Wang X</Item>
+		<Item Name="Author" Type="String">Zhang Z</Item>
+		<Item Name="Author" Type="String">Tang C</Item>
+		<Item Name="Author" Type="String">Ye H</Item>
+		<Item Name="Author" Type="String">Jones L</Item>
+		<Item Name="Author" Type="String">Lou F</Item>
+		<Item Name="Author" Type="String">Zhang D</Item>
+		<Item Name="Author" Type="String">Jiang S</Item>
+		<Item Name="Author" Type="String">Sun H</Item>
+		<Item Name="Author" Type="String">Dong H</Item>
+		<Item Name="Author" Type="String">Zhang G</Item>
+		<Item Name="Author" Type="String">Liu Z</Item>
+		<Item Name="Author" Type="String">Dong Z</Item>
+		<Item Name="Author" Type="String">Guo B</Item>
+		<Item Name="Author" Type="String">Yan H</Item>
+		<Item Name="Author" Type="String">Yan C</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+		<Item Name="Author" Type="String">Su Z</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Nandakumar V</Item>
+		<Item Name="Author" Type="String">Huang XF</Item>
+		<Item Name="Author" Type="String">Chen SY</Item>
+		<Item Name="Author" Type="String">Liu D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Liu D</Item>
+	<Item Name="Title" Type="String">Identification of Genetic Mutations in Human Lung Cancer by Targeted Sequencing.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">83-93</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101258149</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1176-9351</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26244006</Item>
+		<Item Name="doi" Type="String">10.4137/CIN.S22941</Item>
+		<Item Name="pii" Type="String">cin-14-2015-083</Item>
+		<Item Name="pmc" Type="String">PMC4489668</Item>
+		<Item Name="rid" Type="String">26244006</Item>
+		<Item Name="eid" Type="String">26244006</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4489668;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4137/CIN.S22941</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/12/17 00:00</Item>
+		<Item Name="revised" Type="Date">2015/01/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/01/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/08/06 06:00</Item>
+		<Item Name="medline" Type="Date">2015/08/06 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">2</Item>
+	<Item Name="FullJournalName" Type="String">Cancer informatics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4137/CIN.S22941</Item>
+	<Item Name="SO" Type="String">2015;14:83-93</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28199128</Id>
+	<Item Name="PubDate" Type="Date">2017 Jun 1</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Am J Respir Crit Care Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Correia LL</Item>
+		<Item Name="Author" Type="String">Johnson JA</Item>
+		<Item Name="Author" Type="String">McErlean P</Item>
+		<Item Name="Author" Type="String">Bauer J</Item>
+		<Item Name="Author" Type="String">Farah H</Item>
+		<Item Name="Author" Type="String">Rassl DM</Item>
+		<Item Name="Author" Type="String">Rintoul RC</Item>
+		<Item Name="Author" Type="String">Sethi T</Item>
+		<Item Name="Author" Type="String">Lavender P</Item>
+		<Item Name="Author" Type="String">Rawlins EL</Item>
+		<Item Name="Author" Type="String">Littlewood TD</Item>
+		<Item Name="Author" Type="String">Evan GI</Item>
+		<Item Name="Author" Type="String">McCaughan FM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">McCaughan FM</Item>
+	<Item Name="Title" Type="String">SOX2 Drives Bronchial Dysplasia in a Novel Organotypic Model of Early Human Squamous Lung Cancer.</Item>
+	<Item Name="Volume" Type="String">195</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">1494-1508</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9421642</Item>
+	<Item Name="ISSN" Type="String">1073-449X</Item>
+	<Item Name="ESSN" Type="String">1535-4970</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28199128</Item>
+		<Item Name="doi" Type="String">10.1164/rccm.201510-2084OC</Item>
+		<Item Name="pmc" Type="String">PMC5470746</Item>
+		<Item Name="rid" Type="String">28199128</Item>
+		<Item Name="eid" Type="String">28199128</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC5470746;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1164/rccm.201510-2084OC</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2017/02/16 06:00</Item>
+		<Item Name="medline" Type="Date">2017/08/02 06:00</Item>
+		<Item Name="entrez" Type="Date">2017/02/16 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">4</Item>
+	<Item Name="FullJournalName" Type="String">American journal of respiratory and critical care medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1164/rccm.201510-2084OC</Item>
+	<Item Name="SO" Type="String">2017 Jun 1;195(11):1494-1508</Item>
+</DocSum>
+
+</eSummaryResult>
+
+68
+68
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50160)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 50190)
+----------------------------------------

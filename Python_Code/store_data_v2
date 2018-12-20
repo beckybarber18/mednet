@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python store_data_v2.py "$@"
