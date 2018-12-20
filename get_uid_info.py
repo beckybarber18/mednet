@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 # Return title, date for PubMed article w/ id pubid
 
-TIME_TO_SLEEP = 1
+TIME_TO_SLEEP = .8
 def get_title(id_list):
 
 	try:
@@ -41,11 +41,12 @@ def get_title(id_list):
 
 		# Parse xml file
 		soup = BeautifulSoup(doc_summaries, features = 'lxml')
+		#print soup
 
 		titles = []
 		iteration = 0
 
-		for tag in soup.findAll('DocSum'):		
+		for tag in soup.findAll('docsum'):		
 
 			# Loop through until find the id that == the next expected
 			while True:
@@ -53,7 +54,7 @@ def get_title(id_list):
 				next_expected = id_list_array[iteration]
 				this_id = ''
 
-				for a_tag in tag.find("Id"):
+				for a_tag in tag.find("id"):
 					this_id = str(a_tag)
 
 				#print 'next expected: ', next_expected
@@ -68,7 +69,9 @@ def get_title(id_list):
 				
 			# Find date
 			num_tags = 0
-			for a_tag in tag.find("Item", {"Name" : "Title"}):
+
+			for a_tag in tag.find("item", {"name" : "Title"}):
+
 				titles.append(a_tag)
 				num_tags += 1
 
@@ -126,7 +129,7 @@ def get_date(id_list):
 		dates = []
 		iteration = 0
 
-		for tag in soup.findAll('DocSum'):		
+		for tag in soup.findAll('docsum'):		
 
 			# Loop through until find the id that == the next expected
 			while True:
@@ -134,7 +137,7 @@ def get_date(id_list):
 				next_expected = id_list_array[iteration]
 				this_id = ''
 
-				for a_tag in tag.find("Id"):
+				for a_tag in tag.find("id"):
 					this_id = str(a_tag)
 
 				if next_expected != this_id:
@@ -146,7 +149,7 @@ def get_date(id_list):
 				
 			# Find date
 			num_tags = 0
-			for a_tag in tag.find("Item", {"Name" : "PubDate"}):
+			for a_tag in tag.find("item", {"name" : "PubDate"}):
 				dates.append(a_tag)
 				num_tags += 1
 
@@ -273,10 +276,11 @@ def main():
 	#print get_date(str(pubid))
 
 	#id_list = '2'
-	id_list = '1,2,194680922,50978626,28558982,9507199,6678417,6678418,6678419,6678420'
+	id_list = '1'
 
 	for pubid in range(0,int(argv[1])):
 		print get_title(str(id_list))
+		print get_date(str(id_list))
 		# print get_citations_per_year(str(id_list))
 		# print get_citations_per_year(id_list)
 
@@ -287,9 +291,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-	
-
-
-
-    
