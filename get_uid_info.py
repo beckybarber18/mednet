@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 # Return title, date for PubMed article w/ id pubid
 
-TIME_TO_SLEEP = .6
+TIME_TO_SLEEP = 1
 def get_title(id_list):
 
 	try:
