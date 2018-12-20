@@ -63,7 +63,7 @@ def searchForm():
     top_result_articles_1 = top_result_articles
     top_result_articles_2 = []
 
-    NUM_IN_ROW = 8
+    NUM_IN_ROW = 7
 
     if n > NUM_IN_ROW:
         top_result_articles_1 = top_result_articles[0:NUM_IN_ROW]
@@ -151,7 +151,7 @@ def searchForm():
         first_part = these_articles
         second_part = []
 
-        NUM_IN_ROW = 8
+        NUM_IN_ROW = 7
 
         if n > NUM_IN_ROW:
             first_part = these_articles[0:NUM_IN_ROW]
