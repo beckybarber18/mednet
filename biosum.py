@@ -5,6 +5,7 @@
 # Author: Rebecca Barber
 #-----------------------------------------------------------------------
 
+import os
 from sys import argv, stderr
 from disease_network import DiseaseNetwork
 from get_uid_info import *
