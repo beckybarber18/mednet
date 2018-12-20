@@ -1,3 +1,2 @@
 bottle==0.12.13
-igraph
-python-igraph-0.7.1
+igraph==-0.7.1
