@@ -273,6 +273,7 @@ def details():
         index += 1
 
     # Last part
+    titles = []
     success, titles = get_title(article_str)
     # Handle case where success is false
     if success == False:
@@ -280,6 +281,7 @@ def details():
         for art in article_str_array:
             titles.append('Not Found')
 
+    dates = []
     success, dates = get_date(article_str)
     # Handle case where success is false
     if success == False:
