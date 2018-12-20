@@ -309,12 +309,7 @@ def notFound(error):
     return 'Not Found'
 
 if __name__ == '__main__':
-    if len(argv) != 2:
-        print('Usage: ' + argv[0] + ' port')
-        exit(1)
 
-    if not argv[1].isdigit():
-        print('Usage: port not an int')
-        exit(1)
+    port = os.environ.get('PORT', 5000)
 
-    run(host='0.0.0.0', port=argv[1], debug=True)
+    run(host='0.0.0.0', port=port)
