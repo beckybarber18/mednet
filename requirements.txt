@@ -3,3 +3,4 @@ python-igraph
 numpy
 bs4
 inflect
+lxml

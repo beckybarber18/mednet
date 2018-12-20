@@ -40,7 +40,7 @@ def get_title(id_list):
 		doc_summaries = urllib2.urlopen(request, context=gcontext).read()
 
 		# Parse xml file
-		soup = BeautifulSoup(doc_summaries, features = 'xml')
+		soup = BeautifulSoup(doc_summaries, features = 'lxml')
 
 		titles = []
 		iteration = 0
@@ -121,7 +121,7 @@ def get_date(id_list):
 		#print doc_summaries
 
 		# Parse xml file
-		soup = BeautifulSoup(doc_summaries, features = 'xml')
+		soup = BeautifulSoup(doc_summaries, features = 'lxml')
 
 		dates = []
 		iteration = 0
