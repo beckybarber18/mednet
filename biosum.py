@@ -247,6 +247,7 @@ def details():
             success, titles = get_title(article_str)
             # Handle case where success is false
             if success == False: 
+                titles = []
                 article_str_array = article_str.split(',')
                 for art in article_str_array:
                     titles.append('Not Found')
@@ -255,6 +256,7 @@ def details():
             success, dates = get_date(article_str)
             # Handle case where success is false
             if success == False:
+                dates = []
                 article_str_array = article_str.split(',')
                 for art in article_str_array:
                     dates.append('Not Found')
@@ -277,6 +279,7 @@ def details():
     success, titles = get_title(article_str)
     # Handle case where success is false
     if success == False:
+        titles = []
         article_str_array = article_str.split(',')
         for art in article_str_array:
             titles.append('Not Found')
@@ -285,6 +288,7 @@ def details():
     success, dates = get_date(article_str)
     # Handle case where success is false
     if success == False:
+        dates = []
         article_str_array = article_str.split(',')
         for art in article_str_array:
             dates.append('Not Found')
