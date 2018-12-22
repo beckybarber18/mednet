@@ -124,7 +124,7 @@ def searchForm():
     if disease is None:
 
         disease = ""
-        
+
         try:
             network = DiseaseNetwork()
             disease_options = network.get_disease_options()
@@ -319,4 +319,5 @@ if __name__ == '__main__':
         print('Usage: port not an int')
         exit(1)
 
-    run(host='0.0.0.0', port=argv[1], debug=True)
+    #run(host='0.0.0.0', port=argv[1], debug=True)
+    run(host='0.0.0.0', port=os.environ.get('PORT', 5000))
