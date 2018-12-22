@@ -322,5 +322,5 @@ if __name__ == '__main__':
     #run(host='0.0.0.0', port=argv[1], debug=True)
     port = os.environ.get('PORT', 5000)
 
-    run(host='0.0.0.0', port=port)
+    run(host='0.0.0.0', port=os.environ.get('PORT', '5000'))
     
