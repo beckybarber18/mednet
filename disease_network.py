@@ -23,7 +23,7 @@ class DiseaseNetwork:
 
 	def __init__(self):
 
-		self._network = Graph.Read_Pickle('disease_graph_v2.pickle')
+		self._network = Graph.Read_Pickle('../disease_graph_v3.pickle')
 
 		with open('all_diseases.txt', 'rb') as fp: 
 			self._diseases = pickle.load(fp)
@@ -160,11 +160,20 @@ class DiseaseNetwork:
 						top_result_articles[index].append(article)
 				continue
 
+
+			# Because they thought that "virus" was plural...
+			# And disease
+			if v['type'] == 'Disease' and len(biomarker) > 2:
+				if biomarker[len(biomarker)-2:len(biomarker)] == 'si':
+					biomarker = biomarker + 's'
+
+			if biomarker.find('viru') > -1:
+				biomarker = biomarker.replace("viru", "virus")
+
 			top_results.append(biomarker)
 			top_result_types.append(v['type'])
 			both_articles = self.unique_articles(both_articles)
 			top_result_articles.append(both_articles)
-
 
 			# print biomarker, ' ', weights[i]
 

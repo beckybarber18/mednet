@@ -158,7 +158,7 @@
 
       <br>
 
-      <div class="w3-container">
+      <div class="w3-container" style="overflow-x:auto;">
         <form action="searchform" method="post">
           <center>
 
@@ -278,7 +278,15 @@
                     <tr>
                       <td>{{i}}</td>
                       <td>{{result}}</td>
-                      <td>{{top_result_types[i-1]}}</td>
+                      % if top_result_types[i-1] == 'proteinmutation':
+                         <td>protein mutation</td>
+                      % end
+                      % if top_result_types[i-1] == 'dnamutation':
+                         <td>dna mutation</td>
+                      % end
+                      % if top_result_types[i-1] != 'dnamutation' and top_result_types[i-1] != 'proteinmutation':
+                        <td>{{top_result_types[i-1]}}</td>
+                      % end
                       <td>
                         % for article in top_result_articles_1[i-1]:
                             <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{article}}" target="_blank">{{article}}</a>

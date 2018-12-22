@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 
 # Return title, date for PubMed article w/ id pubid
 
-TIME_TO_SLEEP = 1
+#TIME_TO_SLEEP = 5
+TIME_TO_SLEEP = 3
 def get_title(id_list):
 
 	try:
@@ -118,6 +119,8 @@ def get_date(id_list):
 
 		#print 'second url:', url
 
+		time.sleep(TIME_TO_SLEEP)
+
 		#post the esummary URL
 		request = urllib2.Request(url)
 		doc_summaries = urllib2.urlopen(request, context=gcontext).read()
@@ -158,7 +161,7 @@ def get_date(id_list):
 
 		# In case there were errors at the end
 		while len(dates) != len(id_list_array):
-			dates.append('')
+			dates.append(0)
 
 		return (True, dates)
 
@@ -166,18 +169,24 @@ def get_date(id_list):
 		print 'date', e
 		return (False, [])
 
-def get_citations_indiv(pubid):
+def get_citations(id_list):
 
 	try:
 
 		time.sleep(TIME_TO_SLEEP)
+
+		id_list_array = id_list.split(',')
 
 		dbfrom = 'pubmed'
 		linkname = 'pubmed_pmc_refs'
 
 		#assemble the epost URL
 		base = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/'
-		url = base + "elink.fcgi?dbfrom=" + dbfrom + "&linkname=" + linkname + '&id=' + pubid
+		url = base + "elink.fcgi?dbfrom=" + dbfrom + "&linkname=" + linkname
+
+		for pubid in id_list_array:
+			append_me = '&id=' + pubid
+			url += append_me
 
 		# Might need to specify parser
 		request = urllib2.Request(url)
@@ -188,45 +197,76 @@ def get_citations_indiv(pubid):
 		# Parse xml file
 		soup = BeautifulSoup(output, features = 'xml')
 
-		num_cit = 0
+		citations = []
+		iteration = 0
 
-		for tag in soup.find_all("Link"):
-			# Get citations
-			for cit_id in tag.find("Id"):
-				num_cit += 1
+		for tag in soup.findAll('LinkSet'):	
 
-		return (True, num_cit)
+			num_cit = 0	
+
+			# Loop through until find the id that == the next expected
+			while True:
+
+				next_expected = id_list_array[iteration]
+				this_id = ''
+
+				for a_tag in tag.find("Id"):
+					this_id = str(a_tag)
+					break
+
+				if next_expected != this_id:
+					citations.append(0)
+					iteration += 1
+				else:
+					iteration += 1
+					break
+
+			# Find citations
+			num_citations = 0
+
+			for a_tag in tag.find_all("Link"):
+				num_citations += 1
+
+			citations.append(num_citations)
+
+		# In case there were errors at the end
+		while len(citations) != len(id_list_array):
+			citations.append(0)
+
+		return (True, citations)
 
 	except Exception, e:
 		print 'citations', e
-		return (False, '')
+		return (False, [])
 
-# Return number of citations in PMC for PubMed article w/ id pubid
-# Adapted from https://www.ncbi.nlm.nih.gov/pmc/tools/cites-citedby/
-def get_citations(id_list):
+# # Return number of citations in PMC for PubMed article w/ id pubid
+# # Adapted from https://www.ncbi.nlm.nih.gov/pmc/tools/cites-citedby/
+# def get_citations(id_list):
 
-	id_array = id_list.split(',')
-	citations = []
+# 	id_array = id_list.split(',')
+# 	citations = []
 
-	for pubid in id_array:
+# 	for pubid in id_array:
 
-		success, num_cit = get_citations_indiv(pubid)
+# 		success, num_cit = get_citations_indiv(pubid)
 
-		if success == False:
-			num_cit = 0
-		citations.append(num_cit)
+# 		if success == False:
+# 			num_cit = 0
+# 		citations.append(num_cit)
 
-	return citations
+# 	return citations
 
 def get_citations_per_year(id_list):
 
 	try:
 
-		CURRENT_YEAR = 2018
+		CURRENT_YEAR = 2019
 
 		success, dates = get_date(id_list)
 		if success == False:
-			return (False, 0)
+			return (False, [])
+
+		#print 'got dates'
 
 		years = []
 		for date in dates:
@@ -235,12 +275,24 @@ def get_citations_per_year(id_list):
 			else:
 				year = date.split(' ', 1)[0]
 				year = year.split('-', 1)[0]
-				num_years = CURRENT_YEAR - int(year)
-				years.append(num_years)
+				#print 'year: ', year
+				if not year.isdigit(): years.append(-1)
+				else:
+					num_years = CURRENT_YEAR - int(year)
+					years.append(num_years)
 
-		citations = get_citations(id_list)
+		#print 'got years'
 
-		if len(citations) != len(dates): return (False, 'length dif')
+		success, citations = get_citations(id_list)
+		if success == False:
+			return (False, [])
+
+		#print 'got citations'
+
+		if len(citations) != len(dates): 
+			print 'len(citations): ', len(citations)
+			print 'len(dates): ', len(dates)
+			return (False, 'length dif')
 
 		cit_per_year_array = []
 		i = 0
@@ -251,6 +303,8 @@ def get_citations_per_year(id_list):
 				cit_per_year_array.append(0)
 			else:
 				num_cit = int(num_cit)
+				if years[i] == 0:
+					years[i] = 1
 				cit_per_year = num_cit/years[i]
 				cit_per_year_array.append(cit_per_year)
 
@@ -261,7 +315,7 @@ def get_citations_per_year(id_list):
 		return (True, cit_per_year_array)
 
 	except Exception, e:
-		print e
+		print get_citations_per_year, e
 		return (False, [])
 
 
@@ -276,11 +330,11 @@ def main():
 	#print get_date(str(pubid))
 
 	#id_list = '2'
-	id_list = '1'
+	id_list = '1,2,3'
 
 	for pubid in range(0,int(argv[1])):
-		print get_title(str(id_list))
-		print get_date(str(id_list))
+		print get_citations_per_year(str(id_list))
+		#print get_date(str(id_list))
 		# print get_citations_per_year(str(id_list))
 		# print get_citations_per_year(id_list)
 
@@ -291,3 +345,9 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
+	
+
+
+
+    

@@ -47,8 +47,8 @@ def calcCitPerYear(art_need_cit, sum_cit_yr):
 				#print 'success'
 				for cit_per_year in cit_per_year_array:
 					sum_cit_yr += cit_per_year
-					this_art = art_need_cit[art_need_cit_i]
-					art_need_cit[this_art] = cit_per_year
+					this_art = int(art_need_cit[art_need_cit_i])
+					article_citation_map[this_art] = cit_per_year
 					art_need_cit_i += 1
 
 			article_str = ''
@@ -61,6 +61,7 @@ def calcCitPerYear(art_need_cit, sum_cit_yr):
 		index += 1
 
 	# Last part
+	#print 'article_str: ', article_str
 	success, cit_per_year_array = get_citations_per_year(article_str)
 	# Handle case where success is false
 	if success == False: 
@@ -71,7 +72,7 @@ def calcCitPerYear(art_need_cit, sum_cit_yr):
 		for cit_per_year in cit_per_year_array:
 			#print 'art_need_cit_i:', art_need_cit_i
 			sum_cit_yr += cit_per_year
-			this_art = art_need_cit[art_need_cit_i]
+			this_art = int(art_need_cit[art_need_cit_i])
 			article_citation_map[this_art] = cit_per_year
 			art_need_cit_i += 1
 
@@ -87,6 +88,9 @@ def calcWeight(marker_article_map, disease, marker):
 
 	disease_articles = marker_article_map.get(disease)
 	marker_articles = marker_article_map.get(marker)
+	#print 'disease_articles: ', disease_articles
+	#print 'marker_articles: ', marker_articles
+
 	DM = []
 
 	for dis_art in disease_articles:
@@ -107,7 +111,6 @@ def calcWeight(marker_article_map, disease, marker):
 
 	if len(art_need_cit) != 0:
 		sum_cit_yr = calcCitPerYear(art_need_cit, sum_cit_yr)
-
 
 	nU = 20809119
 	nDM = len(DM)
@@ -197,109 +200,112 @@ def main(argv):
 
 	fname = "../Data/graphs/disease_graph_v3.pickle"
 
-	marker_article_map = defaultdict(list)
-	marker_type_map = {}
+	# marker_article_map = defaultdict(list)
+	# marker_type_map = {}
 
-	lastGoodID = 0
+	# lastGoodID = 0
 
-	# Save previous rows so can backtrack if find a relevant (human) article
-	rows = []
-	rows_index = 0
+	# # Save previous rows so can backtrack if find a relevant (human) article
+	# rows = []
+	# rows_index = 0
 
-	# RegEx's because string comparison didn't work
-	pattern = re.compile("Spe.*")
-	pattern2 = re.compile("Huma.*")
+	# # RegEx's because string comparison didn't work
+	# pattern = re.compile("Spe.*")
+	# pattern2 = re.compile("Huma.*")
 
-	p = inflect.engine()
+	# p = inflect.engine()
 
-	for doc in range(0, 29000000, 1000000):
-	#for doc in range(0, 1000000, 1000000):
+	# for doc in range(0, 29000000, 1000000):
+	# #for doc in range(0, 1000000, 1000000):
 
-		# Name of the current file
-		filename = '../Data/tsv_files/PubTator.' + str(doc) + \
-			'_' + str(doc+1000000) + '.BioC.tsv'
+	# 	# Name of the current file
+	# 	filename = '../Data/tsv_files/PubTator.' + str(doc) + \
+	# 		'_' + str(doc+1000000) + '.BioC.tsv'
 		
-		with open(filename) as tsvfile:
+	# 	with open(filename) as tsvfile:
 
-			reader = csv.reader(tsvfile, delimiter = '\t')
-			i = 0
+	# 		reader = csv.reader(tsvfile, delimiter = '\t')
+	# 		i = 0
 
-			for row in reader:
+	# 		for row in reader:
 
-				rows.append(row)
-				rows_index += 1
+	# 			rows.append(row)
+	# 			rows_index += 1
 
-				# If still a good paper (related to humans)
-				paper_id = row[0]
-				if (lastGoodID == paper_id):
+	# 			# If still a good paper (related to humans)
+	# 			paper_id = row[0]
+	# 			if (lastGoodID == paper_id):
 
-					marker = row[1].lower()
+	# 				marker = row[1].lower()
 
-					# Deal with things like "metastisis," which NLP thinks is plural...
-					if marker[len(marker)-3:len(marker)] != 'sis':
+	# 				# Deal with things like "metastisis," which NLP thinks is plural...
+	# 				if marker[len(marker)-3:len(marker)] != 'sis':
 
-						marker_single = p.singular_noun(marker)
-						if marker_single == False: marker_single = marker
+	# 					marker_single = p.singular_noun(marker)
+	# 					if marker_single == False: marker_single = marker
 
-					else: marker_single = marker
+	# 				else: marker_single = marker
 
-					this_type = row[2]
+	# 				this_type = row[2]
+
+	# 				# don't append an article more than once!
+	# 				if row[0] not in marker_article_map[marker_single]:
+	# 					marker_article_map[marker_single].append(row[0])
 					
-					marker_article_map[marker_single].append(paper_id)
-					marker_type_map[marker_single] = this_type
+	# 				marker_type_map[marker_single] = this_type
 
-					continue
+	# 				continue
 
-				thisType = row[2]
+	# 			thisType = row[2]
 
-				# Check species
-				if pattern.match(thisType):
+	# 			# Check species
+	# 			if pattern.match(thisType):
 
-					thisSpecies = row[1]
+	# 				thisSpecies = row[1]
 
-					# Human?
-					if pattern2.match(thisSpecies):
+	# 				# Human?
+	# 				if pattern2.match(thisSpecies):
 
-						# ID of the most recent paper related to humans
-						lastGoodID = row[0]
+	# 					# ID of the most recent paper related to humans
+	# 					lastGoodID = row[0]
 
-						# Backtrack until see all of the terms related to this paper
-						while rows[rows_index-1][0] == lastGoodID:
+	# 					# Backtrack until see all of the terms related to this paper
+	# 					while rows[rows_index-1][0] == lastGoodID:
 
-							marker = row[1].lower()
+	# 						marker = row[1].lower()
 
-							# Deal with things like "metastisis," which NLP thinks is plural...
-							if marker[len(marker)-3:len(marker)] != 'sis':
+	# 						# Deal with things like "metastisis," which NLP thinks is plural...
+	# 						if marker[len(marker)-3:len(marker)] != 'sis':
 
-								marker_single = p.singular_noun(marker)
-								if marker_single == False: marker_single = marker
+	# 							marker_single = p.singular_noun(marker)
+	# 							if marker_single == False: marker_single = marker
 
-							else: marker_single = marker
+	# 						else: marker_single = marker
 
-							# don't append an article more than once!
-							if row[0] not in marker_article_map[marker_single]:
-								marker_article_map[marker_single].append(row[0])
-							marker_type_map[marker_single] = row[2]
+	# 						# don't append an article more than once!
+	# 						if row[0] not in marker_article_map[marker_single]:
+	# 							marker_article_map[marker_single].append(row[0])
+	# 						marker_type_map[marker_single] = row[2]
 
-							rows_index -= 1
+	# 						rows_index -= 1
 
-						rows_index = len(rows)
+	# 					rows_index = len(rows)
 
-				if i % 100000 == 0: 
-					print "Doc: ", doc, "line: ", i
-				i+=1
+	# 			if i % 100000 == 0: 
+	# 				print "Doc: ", doc, "line: ", i
+	# 			i+=1
 
-	with open("../Data/marker_article_map_v3.txt", "wb") as myFile:
-		pickle.dump(marker_article_map, myFile)
+	# with open("../Data/marker_article_map_v3.txt", "wb") as myFile:
+	# 	pickle.dump(marker_article_map, myFile)
 
-	with open("../Data/marker_type_map.txt_v3", "wb") as myFile:
-		pickle.dump(marker_type_map, myFile)
+	# with open("../Data/marker_type_map.txt_v3", "wb") as myFile:
+	# 	pickle.dump(marker_type_map, myFile)
 
-	# with open('marker_article_map.txt', 'rb') as dict_items_open:
-	# 	marker_article_map = pickle.load(dict_items_open)
+	with open('../Data/marker_type_map_v3.txt', 'rb') as dict_items_open:
+		marker_type_map = pickle.load(dict_items_open)
 
-	# with open('marker_type_map.txt', 'rb') as dict_items_open:
-	# 	marker_type_map = pickle.load(dict_items_open)
+	with open('../Data/marker_article_map_v3.txt', 'rb') as dict_items_open:
+		marker_article_map = pickle.load(dict_items_open)
 
 	print len(marker_article_map)
 	print len(marker_type_map)

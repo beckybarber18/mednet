@@ -5,7 +5,6 @@
 # Author: Rebecca Barber
 #-----------------------------------------------------------------------
 
-import os
 from sys import argv, stderr
 from disease_network import DiseaseNetwork
 from get_uid_info import *
@@ -24,7 +23,7 @@ def truefalse(str):
     return str
 
 @route('/', method=['GET', 'POST'])
-def searchForm():
+def homeSearch():
 
     disease = request.forms.get("disease")
 
@@ -63,7 +62,7 @@ def searchForm():
     top_result_articles_1 = top_result_articles
     top_result_articles_2 = []
 
-    NUM_IN_ROW = 7
+    NUM_IN_ROW = 8
 
     if n > NUM_IN_ROW:
         top_result_articles_1 = top_result_articles[0:NUM_IN_ROW]
@@ -151,7 +150,7 @@ def searchForm():
         first_part = these_articles
         second_part = []
 
-        NUM_IN_ROW = 7
+        NUM_IN_ROW = 8
 
         if n > NUM_IN_ROW:
             first_part = these_articles[0:NUM_IN_ROW]
@@ -247,7 +246,6 @@ def details():
             success, titles = get_title(article_str)
             # Handle case where success is false
             if success == False: 
-                titles = []
                 article_str_array = article_str.split(',')
                 for art in article_str_array:
                     titles.append('Not Found')
@@ -256,7 +254,6 @@ def details():
             success, dates = get_date(article_str)
             # Handle case where success is false
             if success == False:
-                dates = []
                 article_str_array = article_str.split(',')
                 for art in article_str_array:
                     dates.append('Not Found')
@@ -275,20 +272,16 @@ def details():
         index += 1
 
     # Last part
-    titles = []
     success, titles = get_title(article_str)
     # Handle case where success is false
     if success == False:
-        titles = []
         article_str_array = article_str.split(',')
         for art in article_str_array:
             titles.append('Not Found')
 
-    dates = []
     success, dates = get_date(article_str)
     # Handle case where success is false
     if success == False:
-        dates = []
         article_str_array = article_str.split(',')
         for art in article_str_array:
             dates.append('Not Found')
@@ -316,7 +309,12 @@ def notFound(error):
     return 'Not Found'
 
 if __name__ == '__main__':
+    if len(argv) != 2:
+        print('Usage: ' + argv[0] + ' port')
+        exit(1)
 
-    port = os.environ.get('PORT', 5000)
+    if not argv[1].isdigit():
+        print('Usage: port not an int')
+        exit(1)
 
-    run(host='0.0.0.0', port=port)
+    run(host='0.0.0.0', port=argv[1], debug=True)
