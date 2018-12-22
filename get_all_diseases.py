@@ -18,7 +18,7 @@ import inflect
 
 def main(argv):
 
-	g = Graph.Read_Pickle('../disease_graph_v3.pickle')
+	g = Graph.Read_Pickle('disease_graph_v3.pickle')
 
 	vertices = g.vs
 	print 'num vertices: ', len(vertices)
@@ -34,7 +34,8 @@ def main(argv):
 
 		# Because they thought that "virus" was plural...
 		if disease.find('viru') > -1:
-			disease = disease.replace("viru", "virus")
+			if disease.find('virus') == -1:
+				ldisease = disease.replace("viru", "virus")
 
 		if disease[len(disease)-2:len(disease)] == 'si':
 			disease = disease + 's'

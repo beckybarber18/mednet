@@ -122,7 +122,9 @@ def searchForm():
     top_result_articles = []
 
     if disease is None:
+
         disease = ""
+        
         try:
             network = DiseaseNetwork()
             disease_options = network.get_disease_options()

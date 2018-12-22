@@ -85,9 +85,17 @@ class DiseaseNetwork:
 		pmutations, dnamutations, snps):
 
 		g = self._network
+		top_results = []
+		top_result_types = []
+		top_result_articles = []
 
 		# finds vertex for given disease
 		vertices = g.vs.select(name=disease)
+
+		# Disease not in network
+		if len(vertices) == 0:
+			return top_results, top_result_types, top_result_articles
+
 		if vertices is None or len(vertices) == 0: return [],[]
 		disease_articles = []
 		for v in vertices:
@@ -108,10 +116,6 @@ class DiseaseNetwork:
 
 		# print top neighbors
 		NUM_RETURN = 100
-
-		top_results = []
-		top_result_types = []
-		top_result_articles = []
 
 		i = 0
 		for neighbor in neighbors:
@@ -168,7 +172,8 @@ class DiseaseNetwork:
 					biomarker = biomarker + 's'
 
 			if biomarker.find('viru') > -1:
-				biomarker = biomarker.replace("viru", "virus")
+				if biomarker.find('virus') == -1:
+					biomarker = biomarker.replace("viru", "virus")
 
 			top_results.append(biomarker)
 			top_result_types.append(v['type'])
@@ -186,7 +191,8 @@ def main(argv):
 
 	disease = argv[1]
 	network = DiseaseNetwork()
-	top_results, top_result_types, top_result_articles = network.get_disease_info(disease, True, True, True, True, True, True)
+	top_results, top_result_types, top_result_articles = \
+		network.get_disease_info(disease, True, True, True, True, True, True)
 
 	# print everything
 	for index in range(0, len(top_results)):
