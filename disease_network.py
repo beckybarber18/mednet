@@ -23,7 +23,7 @@ class DiseaseNetwork:
 
 	def __init__(self):
 
-		self._network = Graph.Read_Pickle('../disease_graph_v3.pickle')
+		self._network = Graph.Read_Pickle('disease_graph_v3.pickle')
 
 		with open('all_diseases.txt', 'rb') as fp: 
 			self._diseases = pickle.load(fp)
