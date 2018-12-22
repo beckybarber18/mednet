@@ -23,7 +23,7 @@ def truefalse(str):
     return str
 
 @route('/', method=['GET', 'POST'])
-def homeSearch():
+def searchForm():
 
     disease = request.forms.get("disease")
 
