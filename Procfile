@@ -1,1 +1,1 @@
-web: python biosum.py
+web: python biosum.py runserver 0.0.0.0:5000
